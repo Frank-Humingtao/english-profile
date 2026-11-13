@@ -3,12 +3,12 @@
   "updated_at": "2026-11-13",
   "lexicon_version": "lex-6326ad69a65d",
   "vocab_size": {
-    "families": {"estimate": 5732, "low": 2482, "high": 8981},
-    "lemmas": {"estimate": 11600, "low": 6300, "high": 16900}
+    "families": {"estimate": 5733, "low": 2483, "high": 8983},
+    "lemmas": {"estimate": 11605, "low": 6304, "high": 16906}
   },
-  "band_counts": {"mastered": 486, "target": 13114, "distant": 29428},
+  "band_counts": {"mastered": 492, "target": 13112, "distant": 29424},
   "level_mastery": [
-    {"level": 1, "families": 1000, "mastery": 0.8921},
+    {"level": 1, "families": 1000, "mastery": 0.8932},
     {"level": 2, "families": 1000, "mastery": 0.5410},
     {"level": 3, "families": 1000, "mastery": 0.4017},
     {"level": 4, "families": 1000, "mastery": 0.3280},

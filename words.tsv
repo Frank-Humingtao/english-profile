@@ -83,7 +83,7 @@ may	Mastered	0.9785	81
 way	Mastered	0.9783	82
 just	Mastered	0.9780	83
 first	Mastered	0.9778	84
-want	Mastered	0.9775	85
+want	Mastered	0.9776	85
 people	Mastered	0.9773	86
 also	Mastered	0.9771	87
 child	Mastered	0.9768	88
@@ -244,7 +244,7 @@ name	Mastered	0.9426	242
 fall	Mastered	0.9424	243
 level	Mastered	0.9422	244
 market	Mastered	0.9420	245
-general	Target	0.4843	246
+general	Target	0.8634	246
 issue	Mastered	0.9415	247
 carry	Mastered	0.9413	248
 control	Mastered	0.9411	249
@@ -260,7 +260,7 @@ book	Mastered	0.9393	258
 leave	Mastered	0.9391	259
 sit	Mastered	0.9389	260
 particular	Mastered	0.9387	261
-draw	Mastered	0.9384	262
+draw	Mastered	0.9385	262
 hour	Mastered	0.9382	263
 second	Mastered	0.9380	264
 family	Mastered	0.9378	265
@@ -312,7 +312,7 @@ full	Mastered	0.9287	310
 learn	Mastered	0.9285	311
 cover	Mastered	0.9283	312
 during	Mastered	0.9281	313
-around	Mastered	0.9279	314
+around	Mastered	0.9280	314
 age	Mastered	0.9278	315
 room	Mastered	0.9276	316
 business	Mastered	0.9274	317
@@ -354,11 +354,11 @@ foot	Mastered	0.9205	352
 subject	Mastered	0.9203	353
 complete	Mastered	0.9201	354
 half	Mastered	0.9199	355
-national	Target	0.4484	356
+national	Target	0.7650	356
 information	Mastered	0.9195	357
 money	Mastered	0.9415	358
 round	Mastered	0.9191	359
-close	Mastered	0.9189	360
+close	Mastered	0.9190	360
 parent	Mastered	0.9188	361
 mark	Mastered	0.9186	362
 educate	Mastered	0.9184	363
@@ -408,7 +408,7 @@ position	Mastered	0.9102	406
 remember	Mastered	0.9100	407
 wide	Mastered	0.9098	408
 already	Mastered	0.9096	409
-marry	Mastered	0.9094	410
+marry	Mastered	0.9095	410
 sound	Mastered	0.9093	411
 final	Mastered	0.9091	412
 kind	Mastered	0.9089	413
@@ -445,9 +445,9 @@ paper	Mastered	0.9033	443
 date	Mastered	0.9031	444
 letter	Mastered	0.9030	445
 shop	Mastered	0.9028	446
-black	Target	0.4266	447
+black	Target	0.8464	447
 health	Mastered	0.9024	448
-seven	Target	0.4261	449
+seven	Target	0.8462	449
 police	Mastered	0.9020	450
 boy	Mastered	0.9019	451
 himself	Mastered	0.9017	452
@@ -504,7 +504,7 @@ north	Target	0.8927	502
 south	Target	0.8925	503
 today	Target	0.8923	504
 education	Target	0.8921	505
-catch	Target	0.8919	506
+catch	Target	0.8920	506
 depend	Target	0.8918	507
 father	Target	0.8916	508
 past	Target	0.8914	509
@@ -515,9 +515,9 @@ total	Target	0.8907	513
 lay	Mastered	0.9476	514
 surprise	Target	0.8904	515
 necessary	Target	0.8902	516
-situation	Target	0.4127	517
+situation	Mastered	0.9006	517
 else	Target	0.8898	518
-actually	Target	0.8896	519
+actually	Target	0.8897	519
 above	Target	0.8895	520
 mile	Target	0.8893	521
 death	Mastered	0.9255	522
@@ -581,7 +581,7 @@ discover	Target	0.8792	579
 true	Target	0.8791	580
 air	Target	0.8789	581
 garden	Target	0.8787	582
-cannot	Target	0.8785	583
+cannot	Target	0.8786	583
 pack	Target	0.8784	584
 fear	Target	0.8782	585
 bed	Target	0.8780	586
@@ -639,7 +639,7 @@ usually	Target	0.8695	637
 laugh	Target	0.8693	638
 owned	Target	0.8691	639
 station	Target	0.8690	640
-relationship	Mastered	0.9158	641
+relationship	Mastered	0.9157	641
 check	Target	0.8686	642
 poor	Target	0.8685	643
 forward	Target	0.8683	644
@@ -666,7 +666,7 @@ horse	Target	0.8650	664
 clean	Target	0.8648	665
 shake	Target	0.8647	666
 someone	Target	0.8645	667
-everything	Target	0.8643	668
+everything	Target	0.8644	668
 movement	Target	0.8642	669
 green	Target	0.8640	670
 hang	Target	0.8639	671
@@ -761,7 +761,7 @@ blue	Mastered	0.9071	759
 cry	Target	0.8496	760
 player	Target	0.8495	761
 excite	Target	0.8493	762
-quarter	Target	0.8491	763
+quarter	Target	0.8492	763
 cold	Mastered	0.9068	764
 river	Target	0.8488	765
 statement	Target	0.8487	766
@@ -788,7 +788,7 @@ video	Mastered	0.9358	786
 thirty	Target	0.8454	787
 dead	Target	0.8453	788
 treatment	Target	0.8451	789
-oil	Target	0.8449	790
+oil	Target	0.8450	790
 shoulder	Target	0.8448	791
 difficulty	Target	0.8446	792
 climb	Mastered	0.9048	793
@@ -796,7 +796,7 @@ growth	Target	0.8443	794
 husband	Target	0.8442	795
 tie	Target	0.8440	796
 waste	Target	0.8439	797
-apparent	Target	0.4893	798
+apparent	Target	0.7423	798
 whatever	Target	0.8436	799
 closed	Target	0.8434	800
 everyone	Target	0.8433	801
@@ -838,14 +838,14 @@ mouth	Target	0.8379	836
 load	Target	0.8378	837
 generally	Mastered	0.9018	838
 pair	Target	0.8375	839
-shout	Target	0.3672	840
+shout	Target	0.7893	840
 beyond	Target	0.8372	841
 lip	Mastered	0.9016	842
 nearly	Target	0.8369	843
 rich	Target	0.8367	844
 hunt	Target	0.8366	845
 quiet	Target	0.8364	846
-straight	Target	0.8362	847
+straight	Target	0.8363	847
 hole	Target	0.8361	848
 jump	Target	0.8359	849
 ball	Target	0.8358	850
@@ -867,7 +867,7 @@ obviously	Target	0.8335	865
 except	Target	0.8334	866
 hot	Target	0.8332	867
 crime	Target	0.8999	868
-fifty	Target	0.8329	869
+fifty	Target	0.8330	869
 ability	Target	0.8328	870
 spring	Target	0.8327	871
 steal	Target	0.8325	872
@@ -882,14 +882,14 @@ tooth	Target	0.8313	880
 payment	Target	0.8312	881
 cheap	Target	0.8310	882
 sight	Target	0.8309	883
-egg	Target	0.3625	884
+egg	Target	0.8272	884
 maybe	Target	0.8306	885
 boat	Target	0.8304	886
 useful	Target	0.8987	887
 gas	Target	0.8301	888
 dear	Target	0.8300	889
 glance	Target	0.8298	890
-phone	Target	0.8985	891
+phone	Target	0.8984	891
 flat	Target	0.8295	892
 song	Target	0.8294	893
 apart	Target	0.8292	894
@@ -988,7 +988,7 @@ noise	Target	0.8159	986
 apparently	Target	0.8158	987
 wild	Target	0.8156	988
 hello	Target	0.8155	989
-slowly	Target	0.8153	990
+slowly	Target	0.8154	990
 writer	Target	0.8152	991
 farmer	Target	0.8151	992
 weather	Target	0.8149	993
@@ -1263,7 +1263,7 @@ clothe	Target	0.7790	1261
 surprisingly	Target	0.7788	1262
 traveller	Target	0.7787	1263
 taxation	Target	0.7786	1264
-compute	Target	0.7784	1265
+compute	Target	0.7785	1265
 singer	Target	0.7783	1266
 outer	Target	0.7782	1267
 besides	Target	0.7781	1268
@@ -1447,7 +1447,7 @@ listener	Target	0.7563	1445
 soften	Target	0.7562	1446
 colourful	Target	0.7561	1447
 specialize	Target	0.7560	1448
-inability	Target	0.7558	1449
+inability	Target	0.7559	1449
 unchanged	Target	0.7557	1450
 ninth	Target	0.7556	1451
 homeless	Target	0.7555	1452
@@ -1498,7 +1498,7 @@ nationally	Target	0.7503	1496
 unlawful	Target	0.7502	1497
 nationwide	Target	0.7501	1498
 continuously	Target	0.7500	1499
-unexpectedly	Target	0.7498	1500
+unexpectedly	Target	0.7499	1500
 rests	Target	0.7497	1501
 darken	Target	0.7496	1502
 deepen	Target	0.7495	1503
@@ -1536,7 +1536,7 @@ honorary	Target	0.7459	1534
 inward	Target	0.7458	1535
 problematic	Target	0.7457	1536
 fourteenth	Target	0.7456	1537
-jumper	Target	0.7454	1538
+jumper	Target	0.7455	1538
 starter	Target	0.7453	1539
 systematically	Target	0.7452	1540
 eleventh	Target	0.7451	1541
@@ -1571,7 +1571,7 @@ relational	Target	0.7419	1569
 sometime	Target	0.7418	1570
 interestingly	Target	0.7417	1571
 realization	Target	0.7416	1572
-cooker	Target	0.7414	1573
+cooker	Target	0.7415	1573
 grandson	Target	0.7413	1574
 backward	Target	0.7412	1575
 auntie	Target	0.7411	1576
@@ -1586,7 +1586,7 @@ selfish	Target	0.7402	1584
 thoughtfully	Target	0.7401	1585
 offs	Target	0.7400	1586
 footballer	Target	0.7399	1587
-wrongly	Target	0.7397	1588
+wrongly	Target	0.7398	1588
 icy	Target	0.7396	1589
 pt	Target	0.7395	1590
 shorten	Target	0.7394	1591
@@ -1645,7 +1645,7 @@ settler	Target	0.7336	1643
 momentarily	Target	0.7335	1644
 generalize	Target	0.7334	1645
 freezer	Target	0.7333	1646
-careless	Target	0.7331	1647
+careless	Target	0.7332	1647
 reconsider	Target	0.7330	1648
 needless	Target	0.7329	1649
 collectively	Target	0.7328	1650
@@ -1720,7 +1720,7 @@ sleepy	Target	0.7254	1718
 lastly	Target	0.7253	1719
 nos	Target	0.7252	1720
 readable	Target	0.7251	1721
-usefully	Target	0.7249	1722
+usefully	Target	0.7250	1722
 generalise	Target	0.7248	1723
 opener	Target	0.7247	1724
 sexist	Target	0.7246	1725
@@ -1733,7 +1733,7 @@ dependant	Target	0.7240	1731
 tis	Target	0.7239	1732
 postwar	Target	0.7238	1733
 decidedly	Target	0.7237	1734
-protector	Target	0.7235	1735
+protector	Target	0.7236	1735
 irresponsible	Target	0.7234	1736
 misses	Target	0.7233	1737
 troublesome	Target	0.7232	1738
@@ -1778,7 +1778,7 @@ unsafe	Target	0.7192	1776
 manageable	Target	0.7191	1777
 thickly	Target	0.7190	1778
 mountaineer	Target	0.7189	1779
-postage	Target	0.7187	1780
+postage	Target	0.7188	1780
 bodied	Target	0.7186	1781
 improbable	Target	0.7185	1782
 taxable	Target	0.7184	1783
@@ -1796,7 +1796,7 @@ hanger	Target	0.7173	1794
 sicken	Target	0.7172	1795
 suitability	Target	0.7171	1796
 messy	Target	0.7170	1797
-birdie	Target	0.7168	1798
+birdie	Target	0.7169	1798
 forceful	Target	0.7167	1799
 forcibly	Target	0.7166	1800
 flatly	Target	0.7165	1801
@@ -1841,7 +1841,7 @@ totality	Target	0.7126	1839
 computational	Target	0.7125	1840
 inexpensive	Target	0.7124	1841
 seater	Target	0.7123	1842
-closeness	Target	0.7121	1843
+closeness	Target	0.7122	1843
 horribly	Target	0.7120	1844
 fri	Target	0.7119	1845
 swimmer	Target	0.7118	1846
@@ -1936,8 +1936,8 @@ racer	Target	0.7029	1934
 furthest	Target	0.7028	1935
 info	Target	0.7027	1936
 jobless	Target	0.7026	1937
-uncertainly	Target	0.7024	1938
-lifeless	Target	0.7023	1939
+uncertainly	Target	0.7025	1938
+lifeless	Target	0.7024	1939
 midweek	Target	0.7022	1940
 timeless	Target	0.7021	1941
 backer	Target	0.7020	1942
@@ -1964,22 +1964,22 @@ noisily	Target	0.7000	1962
 busily	Target	0.6999	1963
 oft	Target	0.6998	1964
 unheard	Target	0.6997	1965
-forcefully	Target	0.6996	1966
+forcefully	Target	0.8957	1966
 fatten	Target	0.6995	1967
-workable	Target	0.6994	1968
+workable	Mastered	0.9302	1968
 fullness	Target	0.6993	1969
-localize	Target	0.6992	1970
-specialty	Target	0.6991	1971
+localize	Mastered	0.9169	1970
+specialty	Mastered	0.9590	1971
 chargeable	Target	0.6991	1972
 scientifically	Target	0.6990	1973
 unanswered	Target	0.6989	1974
-mistakenly	Target	0.6988	1975
-scary	Target	0.6987	1976
+mistakenly	Target	0.8955	1975
+scary	Mastered	0.9168	1976
 subsystem	Target	0.6986	1977
 nationalization	Target	0.6985	1978
 frontage	Target	0.6984	1979
 helplessness	Target	0.6983	1980
-issuer	Target	0.6982	1981
+issuer	Mastered	0.9513	1981
 unnamed	Target	0.6981	1982
 parenting	Target	0.6980	1983
 nightly	Target	0.6979	1984
@@ -2034,7 +2034,7 @@ completeness	Target	0.6931	2032
 truthful	Target	0.6930	2033
 allowable	Target	0.6929	2034
 answerable	Target	0.6928	2035
-doubtfully	Target	0.6927	2036
+doubtfully	Target	0.6928	2036
 cert	Target	0.6927	2037
 droplet	Target	0.6926	2038
 eared	Target	0.6925	2039
@@ -2133,7 +2133,7 @@ missus	Target	0.6836	2131
 shakily	Target	0.6835	2132
 unmistakably	Target	0.6834	2133
 owt	Target	0.6833	2134
-rehouse	Target	0.6832	2135
+rehouse	Target	0.6833	2135
 untie	Target	0.6832	2136
 thingy	Target	0.6831	2137
 prep	Target	0.6830	2138
@@ -2387,7 +2387,7 @@ untimely	Target	0.6605	2385
 bloodless	Target	0.6604	2386
 bottomless	Target	0.6603	2387
 oldie	Target	0.6602	2388
-passable	Target	0.6601	2389
+passable	Target	0.6602	2389
 reinsurance	Target	0.6601	2390
 thoughtless	Target	0.6600	2391
 unpromising	Target	0.6599	2392
@@ -2395,7 +2395,7 @@ aging	Target	0.6598	2393
 collectivist	Target	0.6597	2394
 nots	Target	0.6596	2395
 spotter	Target	0.6595	2396
-truism	Target	0.6594	2397
+truism	Target	0.6595	2397
 unquestioned	Target	0.6594	2398
 unsuited	Target	0.6593	2399
 artistry	Target	0.6592	2400
@@ -2422,7 +2422,7 @@ unhurried	Target	0.6574	2420
 unmanageable	Target	0.6574	2421
 headless	Target	0.6573	2422
 needlessly	Target	0.8346	2423
-nothin	Target	0.2727	2424
+nothin	Target	0.2728	2424
 unusable	Target	0.6570	2425
 artistically	Target	0.6569	2426
 bores	Target	0.6568	2427
@@ -2433,19 +2433,19 @@ forgetful	Target	0.6565	2431
 frighteningly	Target	0.6564	2432
 riser	Target	0.6563	2433
 talker	Target	0.6562	2434
-unscientific	Target	0.6561	2435
+unscientific	Target	0.6562	2435
 airily	Target	0.2723	2436
 humanly	Target	0.8342	2437
 immovable	Target	0.6559	2438
 lovey	Target	0.8341	2439
 middling	Target	0.6557	2440
-okey	Target	0.8341	2441
+okey	Target	0.8340	2441
 tracker	Target	0.6555	2442
 doer	Target	0.2721	2443
 groundless	Target	0.8340	2444
 kitchenette	Target	0.6553	2445
 subtype	Target	0.6552	2446
-untroubled	Target	0.2719	2447
+untroubled	Target	0.2720	2447
 armful	Target	0.6550	2448
 changer	Target	0.6549	2449
 hatter	Target	0.6549	2450
@@ -2453,7 +2453,7 @@ toothless	Target	0.8338	2451
 unending	Target	0.8337	2452
 unsmiling	Target	0.6546	2453
 voiceless	Target	0.6545	2454
-bluish	Target	0.2716	2455
+bluish	Target	0.2717	2455
 deaden	Target	0.6543	2456
 forested	Target	0.8336	2457
 lawlessness	Target	0.6542	2458
@@ -2480,12 +2480,12 @@ sporty	Target	0.6525	2478
 antitrust	Target	0.6524	2479
 brotherly	Target	0.6523	2480
 discoverer	Target	0.6522	2481
-educationist	Target	0.8329	2482
+educationist	Target	0.8328	2482
 jokingly	Target	0.6520	2483
-prewar	Target	0.2706	2484
+prewar	Target	0.2707	2484
 untested	Target	0.6519	2485
 doubter	Target	0.6518	2486
-icily	Target	0.2705	2487
+icily	Target	0.2706	2487
 unselfish	Target	0.6516	2488
 retell	Target	0.6515	2489
 conversant	Target	0.6514	2490
@@ -2497,7 +2497,7 @@ dryly	Target	0.2703	2495
 improbably	Target	0.6509	2496
 inhumanity	Target	0.8324	2497
 redouble	Target	0.8324	2498
-unanswerable	Target	0.2701	2499
+unanswerable	Target	0.2702	2499
 dealership	Target	0.6506	2500
 machinist	Target	0.6505	2501
 realisable	Target	0.6504	2502
@@ -2509,19 +2509,19 @@ neatness	Target	0.6500	2507
 neighbourly	Target	0.6499	2508
 pricey	Target	0.6498	2509
 reddy	Target	0.6497	2510
-rightist	Target	0.2697	2511
+rightist	Target	0.2698	2511
 suddenness	Target	0.8320	2512
 unproblematic	Target	0.6495	2513
 cheapness	Target	0.6494	2514
 figural	Target	0.6493	2515
 loader	Target	0.8319	2516
-protectively	Target	0.6491	2517
+protectively	Target	0.6492	2517
 unashamed	Target	0.2695	2518
 uncut	Target	0.6490	2519
 betterment	Target	0.6489	2520
 crier	Target	0.6488	2521
 orf	Target	0.6487	2522
-topmost	Target	0.2693	2523
+topmost	Target	0.2694	2523
 wetness	Target	0.6486	2524
 whitish	Target	0.8316	2525
 catchy	Target	0.6484	2526
@@ -2551,7 +2551,7 @@ unknowingly	Target	0.6465	2549
 doggie	Target	0.8309	2550
 forgetfulness	Target	0.6463	2551
 naw	Target	0.2684	2552
-slippage	Target	0.2683	2553
+slippage	Target	0.2684	2553
 gimme	Target	0.6460	2554
 greening	Target	0.6460	2555
 rediscovery	Target	0.6459	2556
@@ -2576,7 +2576,7 @@ hospitalise	Target	0.6444	2574
 lifter	Target	0.8302	2575
 localisation	Target	0.6442	2576
 ageist	Target	0.6441	2577
-arranger	Target	0.6440	2578
+arranger	Target	0.6441	2578
 bein	Target	0.6440	2579
 fittingly	Target	0.6439	2580
 historicist	Target	0.6438	2581
@@ -2589,18 +2589,18 @@ jumpy	Target	0.8299	2587
 levelly	Target	0.6432	2588
 lighters	Target	0.8298	2589
 unfeeling	Target	0.6431	2590
-unmanned	Target	0.8298	2591
+unmanned	Target	0.8297	2591
 unpick	Target	0.8297	2592
 unshakeable	Target	0.6428	2593
 fortieth	Target	0.2670	2594
-grannie	Target	0.2669	2595
+grannie	Target	0.2670	2595
 newness	Target	0.8296	2596
 presentational	Target	0.6425	2597
 smallness	Target	0.6424	2598
 unbeliever	Target	0.6423	2599
 unmoving	Target	0.6422	2600
 unquestioning	Target	0.6421	2601
-unreasonableness	Target	0.8295	2602
+unreasonableness	Target	0.8294	2602
 weightless	Target	0.8294	2603
 wonderingly	Target	0.6419	2604
 wot	Target	0.6418	2605
@@ -2608,7 +2608,7 @@ yup	Target	0.2666	2606
 conversationally	Target	0.6417	2607
 millionth	Target	0.6416	2608
 misuser	Target	0.6415	2609
-treeless	Target	0.2664	2610
+treeless	Target	0.2665	2610
 unfilled	Target	0.8292	2611
 uselessly	Target	0.8292	2612
 worthiness	Target	0.6412	2613
@@ -2621,10 +2621,10 @@ preschool	Target	0.8290	2619
 shortness	Target	0.6406	2620
 unsurprising	Target	0.2661	2621
 usability	Target	0.8289	2622
-absolutist	Target	0.2660	2623
+absolutist	Target	0.2661	2623
 admittance	Target	0.8288	2624
 datable	Target	0.6402	2625
-localization	Target	0.2659	2626
+localization	Target	0.2660	2626
 loudness	Target	0.6400	2627
 midlife	Target	0.6399	2628
 mishandle	Target	0.6399	2629
@@ -2661,7 +2661,7 @@ nonsmoker	Target	0.6374	2659
 roughen	Target	0.6373	2660
 unafraid	Target	0.8278	2661
 wakefulness	Target	0.6372	2662
-worriedly	Target	0.2647	2663
+worriedly	Target	0.2648	2663
 landward	Target	0.2647	2664
 nationhood	Target	0.6369	2665
 neighbourliness	Target	0.6368	2666
@@ -2676,7 +2676,7 @@ coverlet	Target	0.2644	2674
 historicity	Target	0.6361	2675
 laughingly	Target	0.6360	2676
 lifelike	Target	0.8274	2677
-quickie	Target	0.8274	2678
+quickie	Target	0.8273	2678
 returnable	Target	0.6358	2679
 righted	Target	0.6357	2680
 spaciousness	Target	0.6356	2681
@@ -2687,16 +2687,16 @@ untruth	Target	0.6353	2685
 blackish	Target	0.6352	2686
 hater	Target	0.8271	2687
 improbability	Target	0.6351	2688
-leggy	Target	0.2639	2689
+leggy	Target	0.2640	2689
 meaningfulness	Target	0.6349	2690
 repackage	Target	0.6348	2691
-unheated	Target	0.6347	2692
+unheated	Target	0.6348	2692
 unknowable	Target	0.6347	2693
 acceptor	Target	0.6346	2694
 flatness	Target	0.8269	2695
 forwarder	Target	0.6344	2696
 renumber	Target	0.6343	2697
-roughage	Target	0.2636	2698
+roughage	Target	0.2637	2698
 uncooked	Target	0.6342	2699
 unread	Target	0.6341	2700
 aways	Target	0.6340	2701
@@ -2713,7 +2713,7 @@ choosy	Target	0.6332	2711
 earthen	Target	0.6331	2712
 misinform	Target	0.8264	2713
 prettiness	Target	0.6330	2714
-relatedness	Target	0.8264	2715
+relatedness	Target	0.8263	2715
 reusable	Target	0.6328	2716
 subfamily	Target	0.6327	2717
 touchingly	Target	0.6327	2718
@@ -2724,7 +2724,7 @@ fatherhood	Target	0.6324	2722
 manfully	Target	0.6323	2723
 mismanage	Target	0.8261	2724
 redo	Target	0.6321	2725
-relearn	Target	0.8261	2726
+relearn	Target	0.8260	2726
 smilingly	Target	0.6320	2727
 smokey	Target	0.6319	2728
 stonily	Target	0.8949	2729
@@ -2732,7 +2732,7 @@ totalizing	Target	0.6317	2730
 allo	Target	0.6316	2731
 legless	Target	0.6316	2732
 localism	Target	0.6315	2733
-movingly	Target	0.2625	2734
+movingly	Target	0.2626	2734
 musicianship	Target	0.8258	2735
 partying	Target	0.6312	2736
 severally	Target	0.6312	2737
@@ -2771,7 +2771,7 @@ slippy	Target	0.6286	2769
 treatable	Target	0.6286	2770
 unsystematic	Target	0.6285	2771
 yd	Target	0.6284	2772
-ageless	Target	0.2613	2773
+ageless	Target	0.2614	2773
 judgmental	Target	0.8248	2774
 lockable	Target	0.6282	2775
 morn	Target	0.6281	2776
@@ -2784,7 +2784,7 @@ waster	Target	0.2611	2782
 expressible	Target	0.6275	2783
 fearlessly	Target	0.6275	2784
 friendless	Target	0.8245	2785
-inexcusable	Target	0.8245	2786
+inexcusable	Target	0.8244	2786
 loveliness	Target	0.6272	2787
 noiselessly	Target	0.8942	2788
 realizable	Target	0.8244	2789
@@ -2801,10 +2801,10 @@ programmatic	Target	0.8241	2799
 spotlessly	Target	0.6262	2800
 thoughtfulness	Target	0.6261	2801
 uncouple	Target	0.2605	2802
-uneaten	Target	0.2604	2803
+uneaten	Target	0.2605	2803
 uninsured	Target	0.6259	2804
 unrealized	Target	0.6258	2805
-unseeingly	Target	0.2603	2806
+unseeingly	Target	0.2604	2806
 windless	Target	0.6257	2807
 collectivization	Target	0.2603	2808
 dependability	Target	0.6255	2809
@@ -2814,11 +2814,11 @@ painterly	Target	0.6253	2812
 prepayment	Target	0.6252	2813
 awfulness	Target	0.6251	2814
 blueness	Target	0.6250	2815
-colouration	Target	0.2600	2816
+colouration	Target	0.2601	2816
 footy	Target	0.2600	2817
 gooder	Target	0.6248	2818
 hospitalization	Target	0.8236	2819
-insupportable	Target	0.2599	2820
+insupportable	Target	0.2600	2820
 jokey	Target	0.6246	2821
 kingly	Target	0.6245	2822
 niceness	Target	0.8235	2823
@@ -2838,7 +2838,7 @@ dropper	Target	0.6234	2836
 figuration	Target	0.6233	2837
 misjudgement	Target	0.6233	2838
 playability	Target	0.6232	2839
-selfishly	Target	0.2593	2840
+selfishly	Target	0.2594	2840
 suggestively	Target	0.8230	2841
 unbelieving	Target	0.8230	2842
 unquestioningly	Target	0.6229	2843
@@ -2849,9 +2849,9 @@ darlin	Target	0.6226	2847
 dearie	Target	0.2591	2848
 fatherless	Target	0.2591	2849
 fifthly	Target	0.8228	2850
-godless	Target	0.8228	2851
+godless	Target	0.8227	2851
 gotcha	Target	0.6222	2852
-largish	Target	0.2589	2853
+largish	Target	0.2590	2853
 looker	Target	0.6220	2854
 prearrange	Target	0.6220	2855
 preterm	Target	0.6219	2856
@@ -2875,7 +2875,7 @@ greeny	Target	0.6206	2873
 hatful	Target	0.6205	2874
 newish	Target	0.8221	2875
 outta	Target	0.6203	2876
-righto	Target	0.2582	2877
+righto	Target	0.2583	2877
 sisterhood	Target	0.6202	2878
 thankless	Target	0.8220	2879
 thro	Target	0.6200	2880
@@ -2892,7 +2892,7 @@ timelessness	Target	0.6193	2890
 tryin	Target	0.6192	2891
 unconsidered	Target	0.8928	2892
 worthlessness	Target	0.6191	2893
-anteroom	Target	0.2577	2894
+anteroom	Target	0.2578	2894
 beautician	Target	0.6189	2895
 girly	Target	0.6188	2896
 govt	Target	0.2577	2897
@@ -2919,22 +2919,22 @@ ungovernable	Target	0.6172	2917
 unlovely	Target	0.8210	2918
 unplayable	Target	0.8210	2919
 childishness	Target	0.6170	2920
-childlessness	Target	0.8210	2921
-incompletely	Target	0.2569	2922
+childlessness	Target	0.8209	2921
+incompletely	Target	0.2570	2922
 inexact	Target	0.8209	2923
 nts	Target	0.6167	2924
 retest	Target	0.6166	2925
 triable	Target	0.6166	2926
 unschooled	Target	0.6165	2927
 unturned	Target	0.6164	2928
-walkies	Target	0.8208	2929
+walkies	Target	0.8207	2929
 yellowy	Target	0.8207	2930
 conversationalist	Target	0.6162	2931
 forgettable	Target	0.6161	2932
 godliness	Target	0.6160	2933
 heatedly	Target	0.6160	2934
 knowable	Target	0.6159	2935
-leftwards	Target	0.2565	2936
+leftwards	Target	0.2566	2936
 marketability	Target	0.6157	2937
 naughtiness	Target	0.6157	2938
 rater	Target	0.8205	2939
@@ -2947,19 +2947,19 @@ unpainted	Target	0.6151	2945
 winery	Target	0.6151	2946
 babyish	Target	0.6150	2947
 badness	Target	0.6149	2948
-bitty	Target	0.8203	2949
+bitty	Target	0.8202	2949
 busyness	Target	0.6148	2950
 craziness	Target	0.2561	2951
 druggist	Target	0.6146	2952
 expressively	Target	0.6145	2953
-filmy	Target	0.2560	2954
+filmy	Target	0.2561	2954
 footie	Target	0.6144	2955
 gladden	Target	0.6143	2956
 hardener	Target	0.6142	2957
 humanise	Target	0.6142	2958
 photographically	Target	0.6141	2959
 undead	Target	0.6140	2960
-wakeful	Target	0.8200	2961
+wakeful	Target	0.8199	2961
 wearable	Target	0.6139	2962
 wetly	Target	0.2558	2963
 bluey	Target	0.6137	2964
@@ -2969,7 +2969,7 @@ intergroup	Target	0.6135	2967
 manliness	Target	0.6134	2968
 mishear	Target	0.2556	2969
 offeree	Target	0.6133	2970
-picky	Target	0.2555	2971
+picky	Target	0.2556	2971
 sixtieth	Target	0.6131	2972
 sureness	Target	0.6130	2973
 unconcern	Target	0.6130	2974
@@ -2983,11 +2983,11 @@ excusable	Target	0.6124	2981
 fatness	Target	0.6124	2982
 irresponsibly	Target	0.6123	2983
 leaderless	Target	0.6122	2984
-perfectionism	Target	0.8194	2985
+perfectionism	Target	0.8193	2985
 preform	Target	0.6121	2986
 seventieth	Target	0.8193	2987
 shortish	Target	0.6119	2988
-standin	Target	0.2550	2989
+standin	Target	0.2551	2989
 unclothed	Target	0.6118	2990
 unreasoning	Target	0.6117	2991
 unspeakably	Target	0.6116	2992
@@ -3002,7 +3002,7 @@ helpfulness	Target	0.6110	3000
 hitter	Target	0.6110	3001
 honorific	Target	0.2547	3002
 horsy	Target	0.6108	3003
-misrule	Target	0.2546	3004
+misrule	Target	0.2547	3004
 shirted	Target	0.6107	3005
 themself	Target	0.6106	3006
 throatily	Target	0.8188	3007
@@ -3010,7 +3010,7 @@ unexpressed	Target	0.6104	3008
 unfitness	Target	0.8914	3009
 unformed	Target	0.2545	3010
 unhelpfully	Target	0.6102	3011
-wheelie	Target	0.6101	3012
+wheelie	Target	0.6102	3012
 whomever	Target	0.2544	3013
 actualisation	Target	0.2544	3014
 babby	Target	0.6099	3015
@@ -3019,11 +3019,11 @@ employability	Target	0.6098	3017
 girlhood	Target	0.6097	3018
 inexpressible	Target	0.8185	3019
 meaninglessness	Target	0.6096	3020
-mindlessly	Target	0.8185	3021
+mindlessly	Target	0.8184	3021
 misjudgment	Target	0.8184	3022
 needful	Target	0.6093	3023
 papery	Target	0.6093	3024
-pretax	Target	0.2540	3025
+pretax	Target	0.2541	3025
 scientificity	Target	0.6091	3026
 unacceptability	Target	0.6090	3027
 unexpectedness	Target	0.2540	3028
@@ -3043,7 +3043,7 @@ misstatement	Target	0.6080	3041
 pointlessly	Target	0.8179	3042
 pointlessness	Target	0.6079	3043
 prepay	Target	0.6078	3044
-refinish	Target	0.8179	3045
+refinish	Target	0.8178	3045
 rehearing	Target	0.6077	3046
 selfhood	Target	0.8178	3047
 skyward	Target	0.6075	3048
@@ -3064,7 +3064,7 @@ weightlessness	Target	0.6065	3062
 babyhood	Target	0.8174	3063
 beauteous	Target	0.2530	3064
 boringly	Target	0.6063	3065
-heartedness	Target	0.8174	3066
+heartedness	Target	0.8173	3066
 kiddy	Target	0.2529	3067
 subheading	Target	0.6061	3068
 thankfulness	Target	0.8173	3069
@@ -3080,7 +3080,7 @@ goner	Target	0.6053	3078
 madding	Target	0.6053	3079
 misnamed	Target	0.6052	3080
 roomful	Target	0.6051	3081
-unlooked	Target	0.8170	3082
+unlooked	Target	0.8169	3082
 unspent	Target	0.6050	3083
 unsuitably	Target	0.6049	3084
 beautify	Target	0.6048	3085
@@ -3101,11 +3101,11 @@ forcefulness	Target	0.6038	3099
 intermarry	Target	0.6037	3100
 messily	Target	0.6037	3101
 selflessly	Target	0.8903	3102
-sexiness	Target	0.8165	3103
-stayer	Target	0.8903	3104
+sexiness	Target	0.8164	3103
+stayer	Target	0.8902	3104
 understandingly	Target	0.6034	3105
-unladylike	Target	0.2518	3106
-unplaced	Target	0.8164	3107
+unladylike	Target	0.2519	3106
+unplaced	Target	0.8163	3107
 unpleasing	Target	0.2518	3108
 unworthiness	Target	0.6031	3109
 blackly	Target	0.8163	3110
@@ -3138,7 +3138,7 @@ orangey	Target	0.6012	3136
 oughta	Target	0.6011	3137
 selflessness	Target	0.6010	3138
 squarer	Target	0.2510	3139
-unnumbered	Target	0.2509	3140
+unnumbered	Target	0.2510	3140
 unpardonable	Target	0.2509	3141
 unselfishness	Target	0.6007	3142
 heartlessly	Target	0.8155	3143
@@ -3150,35 +3150,35 @@ misspent	Target	0.6003	3148
 oiler	Target	0.6002	3149
 overtire	Target	0.2507	3150
 renter	Target	0.6001	3151
-suggestiveness	Target	0.2506	3152
+suggestiveness	Target	0.2507	3152
 undreamt	Target	0.2506	3153
 unmanly	Target	0.2506	3154
-unmentioned	Target	0.2505	3155
+unmentioned	Target	0.2506	3155
 woodenly	Target	0.5997	3156
 aske	Target	0.5997	3157
 baddy	Target	0.5996	3158
-boyishly	Target	0.2504	3159
+boyishly	Target	0.2505	3159
 callin	Target	0.2504	3160
-carefulness	Target	0.8151	3161
+carefulness	Target	0.8150	3161
 cleanness	Target	0.8150	3162
 colored	Target	0.5993	3163
 deathless	Target	0.5992	3164
-emptily	Target	0.8150	3165
+emptily	Target	0.8149	3165
 fortyish	Target	0.5990	3166
 healthful	Target	0.5990	3167
 hotness	Target	0.5989	3168
 kisser	Target	0.5988	3169
-mannish	Target	0.2501	3170
+mannish	Target	0.2502	3170
 motherless	Target	0.8895	3171
 neighborhood	Target	0.8148	3172
 normalcy	Target	0.2501	3173
-overprotective	Target	0.2500	3174
+overprotective	Target	0.2501	3174
 particularistic	Target	0.5984	3175
 plentifully	Target	0.5983	3176
 protectorship	Target	0.5983	3177
 servery	Target	0.5982	3178
 uncounted	Target	0.5981	3179
-underage	Target	0.5980	3180
+underage	Target	0.5981	3180
 wastefully	Target	0.5980	3181
 actualise	Target	0.5979	3182
 bagful	Target	0.5978	3183
@@ -3201,7 +3201,7 @@ wifely	Target	0.5967	3199
 wondrously	Target	0.5966	3200
 earful	Target	0.5966	3201
 eyeful	Target	0.8141	3202
-hatless	Target	0.8141	3203
+hatless	Target	0.8140	3203
 inmost	Target	0.5964	3204
 littlest	Target	0.5963	3205
 mouthy	Target	0.5962	3206
@@ -3223,18 +3223,18 @@ viewable	Target	0.5952	3221
 womanizer	Target	0.2488	3222
 worthily	Target	0.8136	3223
 behinds	Target	0.8136	3224
-earthiness	Target	0.8889	3225
+earthiness	Target	0.8888	3225
 fearfulness	Target	0.8135	3226
 flattish	Target	0.2487	3227
 inexpensively	Target	0.5947	3228
 joblessness	Target	0.5946	3229
 liveable	Target	0.5945	3230
 masterfully	Target	0.8134	3231
-mischance	Target	0.2485	3232
+mischance	Target	0.2486	3232
 passably	Target	0.5943	3233
 starless	Target	0.5943	3234
 sweetish	Target	0.5942	3235
-thirstily	Target	0.2484	3236
+thirstily	Target	0.2485	3236
 unaffordable	Target	0.8133	3237
 unsighted	Target	0.5940	3238
 unvoiced	Target	0.5939	3239
@@ -3248,7 +3248,7 @@ hopefulness	Target	0.5934	3246
 iciness	Target	0.2482	3247
 insecurely	Target	0.5933	3248
 messiness	Target	0.5932	3249
-midtown	Target	0.8130	3250
+midtown	Target	0.8129	3250
 mishit	Target	0.5931	3251
 oldish	Target	0.5930	3252
 postdate	Target	0.2480	3253
@@ -3261,7 +3261,7 @@ unthought	Target	0.5925	3259
 wastefulness	Target	0.5925	3260
 billionth	Target	0.2478	3261
 bimonthly	Target	0.5923	3262
-catlike	Target	0.8127	3263
+catlike	Target	0.8126	3263
 costliness	Target	0.5922	3264
 easiness	Target	0.2477	3265
 experientially	Target	0.5921	3266
@@ -3274,12 +3274,12 @@ overexcited	Target	0.5916	3272
 particularise	Target	0.5916	3273
 publically	Target	0.5915	3274
 readin	Target	0.2475	3275
-semifinal	Target	0.2474	3276
+semifinal	Target	0.2475	3276
 situationally	Target	0.5913	3277
 tallness	Target	0.5912	3278
 unbarred	Target	0.2474	3279
 undrawn	Target	0.5911	3280
-unneeded	Target	0.8123	3281
+unneeded	Target	0.8122	3281
 unspeaking	Target	0.5910	3282
 untaught	Target	0.5909	3283
 untruthfully	Target	0.5908	3284
@@ -3290,7 +3290,7 @@ partied	Target	0.5905	3288
 reinsure	Target	0.5905	3289
 skinless	Target	0.5904	3290
 teachable	Target	0.5903	3291
-uncountable	Target	0.2470	3292
+uncountable	Target	0.2471	3292
 uninsurable	Target	0.5902	3293
 unlettered	Target	0.8881	3294
 untruthful	Target	0.8119	3295
@@ -3302,18 +3302,18 @@ crosswise	Target	0.5897	3300
 danceable	Target	0.5897	3301
 doubtlessly	Target	0.5896	3302
 frontally	Target	0.5895	3303
-girlishly	Target	0.2467	3304
+girlishly	Target	0.2468	3304
 healthiness	Target	0.5894	3305
 hugeness	Target	0.8117	3306
 largeness	Target	0.5892	3307
-lemme	Target	0.2466	3308
+lemme	Target	0.2467	3308
 littleness	Target	0.5891	3309
 miz	Target	0.5890	3310
 naughtily	Target	0.5890	3311
 particularize	Target	0.5889	3312
 plenteous	Target	0.5888	3313
 righty	Target	0.5888	3314
-samey	Target	0.2464	3315
+samey	Target	0.2465	3315
 thickener	Target	0.5886	3316
 traveler	Target	0.5886	3317
 unfixed	Target	0.8114	3318
@@ -3322,7 +3322,7 @@ biggy	Target	0.5884	3320
 furthermost	Target	0.5883	3321
 generalizable	Target	0.5882	3322
 hairiness	Target	0.2463	3323
-humanisation	Target	0.8113	3324
+humanisation	Target	0.8112	3324
 jobbery	Target	0.5880	3325
 lifelessly	Target	0.5880	3326
 neighboring	Target	0.5879	3327
@@ -3335,10 +3335,10 @@ unhorsed	Target	0.5875	3333
 unpressed	Target	0.5874	3334
 watchfully	Target	0.5873	3335
 wideness	Target	0.5873	3336
-advertize	Target	0.8110	3337
+advertize	Target	0.8109	3337
 baseness	Target	0.5871	3338
 beautification	Target	0.5871	3339
-doable	Target	0.2458	3340
+doable	Target	0.2459	3340
 druggies	Target	0.8109	3341
 forwardness	Target	0.5869	3342
 gardened	Target	0.2458	3343
@@ -3346,7 +3346,7 @@ hadst	Target	0.5867	3344
 hatefully	Target	0.5867	3345
 huntress	Target	0.5866	3346
 hurtfully	Target	0.5865	3347
-inexcusably	Target	0.2456	3348
+inexcusably	Target	0.2457	3348
 kiddo	Target	0.5864	3349
 leavin	Target	0.5863	3350
 leftmost	Target	0.2456	3351
@@ -3357,11 +3357,11 @@ readiest	Target	0.5860	3355
 roundish	Target	0.5859	3356
 sexily	Target	0.5859	3357
 squareness	Target	0.2454	3358
-unfriendliness	Target	0.8874	3359
+unfriendliness	Target	0.8873	3359
 yellowness	Target	0.5857	3360
 ashamedly	Target	0.5856	3361
 bitsy	Target	0.5855	3362
-collectible	Target	0.5854	3363
+collectible	Target	0.5855	3363
 colorful	Target	0.5854	3364
 deadest	Target	0.8103	3365
 deliciousness	Target	0.8103	3366
@@ -3399,7 +3399,7 @@ lowness	Target	0.5832	3397
 naturalistically	Target	0.2444	3398
 nonwhite	Target	0.5830	3399
 oldy	Target	0.5830	3400
-orangy	Target	0.2443	3401
+orangy	Target	0.2444	3401
 parented	Target	0.8095	3402
 princedom	Target	0.8095	3403
 prisoned	Target	0.5827	3404
@@ -3424,7 +3424,7 @@ woodsy	Target	0.5815	3422
 wordiness	Target	0.5814	3423
 busing	Target	0.8866	3424
 colorless	Target	0.5813	3425
-coulda	Target	0.2437	3426
+coulda	Target	0.2438	3426
 darky	Target	0.5812	3427
 deader	Target	0.2437	3428
 deathlike	Target	0.5810	3429
@@ -3451,7 +3451,7 @@ sighter	Target	0.5797	3449
 sillily	Target	0.5797	3450
 trustful	Target	0.5796	3451
 unforgotten	Target	0.8084	3452
-unhand	Target	0.8084	3453
+unhand	Target	0.8083	3453
 untruthfulness	Target	0.8083	3454
 unweighted	Target	0.5793	3455
 unworn	Target	0.5793	3456
@@ -3460,7 +3460,7 @@ womanish	Target	0.2430	3458
 biweekly	Target	0.5791	3459
 bloodiness	Target	0.5790	3460
 boyishness	Target	0.5789	3461
-clocker	Target	0.8082	3462
+clocker	Target	0.8081	3462
 coloring	Target	0.5788	3463
 computable	Target	0.5787	3464
 crossness	Target	0.8081	3465
@@ -3471,15 +3471,15 @@ grandmamma	Target	0.5784	3469
 hellishly	Target	0.5783	3470
 landwards	Target	0.5783	3471
 livable	Target	0.5782	3472
-midafternoon	Target	0.5781	3473
+midafternoon	Target	0.5782	3473
 midterm	Target	0.8079	3474
 mindlessness	Target	0.5780	3475
-misnaming	Target	0.8079	3476
+misnaming	Target	0.8078	3476
 musta	Target	0.5779	3477
 nne	Target	0.5778	3478
 nonsmoking	Target	0.2425	3479
 parentless	Target	0.5777	3480
-perfectible	Target	0.2424	3481
+perfectible	Target	0.2425	3481
 personalism	Target	0.5776	3482
 prejudgment	Target	0.5775	3483
 preschooler	Target	0.2424	3484
@@ -3492,7 +3492,7 @@ rocklike	Target	0.5770	3490
 roughish	Target	0.5770	3491
 senselessness	Target	0.5769	3492
 smokiness	Target	0.5768	3493
-starlike	Target	0.8075	3494
+starlike	Target	0.8074	3494
 stoniness	Target	0.5767	3495
 storable	Target	0.2421	3496
 straightener	Target	0.2421	3497
@@ -3501,7 +3501,7 @@ unchosen	Target	0.2420	3499
 uncleanliness	Target	0.5764	3500
 undealt	Target	0.5763	3501
 unfeelingly	Target	0.5763	3502
-unhidden	Target	0.8073	3503
+unhidden	Target	0.8072	3503
 unhoused	Target	0.2419	3504
 unsayable	Target	0.5761	3505
 unsent	Target	0.5760	3506
@@ -3510,17 +3510,17 @@ untiringly	Target	0.5759	3508
 unwearable	Target	0.8857	3509
 wettable	Target	0.5757	3510
 yeller	Target	0.5757	3511
-basely	Target	0.8071	3512
+basely	Target	0.8070	3512
 bloodlessly	Target	0.8070	3513
 boniness	Target	0.8070	3514
 classiness	Target	0.5754	3515
-excitably	Target	0.5753	3516
-expectedly	Target	0.8070	3517
+excitably	Target	0.5754	3516
+expectedly	Target	0.8069	3517
 fatless	Target	0.5752	3518
 fattish	Target	0.5752	3519
 fishiness	Target	0.5751	3520
 fixable	Target	0.5750	3521
-flowerer	Target	0.8069	3522
+flowerer	Target	0.8068	3522
 floweriness	Target	0.5749	3523
 glassiness	Target	0.8856	3524
 gunless	Target	0.5748	3525
@@ -3539,7 +3539,7 @@ slightness	Target	0.5740	3537
 tastelessly	Target	0.5739	3538
 teethes	Target	0.2411	3539
 unclosed	Target	0.5738	3540
-uncooled	Target	0.2410	3541
+uncooled	Target	0.2411	3541
 unfound	Target	0.5737	3542
 unhealthful	Target	0.5736	3543
 unhealthiness	Target	0.8064	3544
@@ -3565,7 +3565,7 @@ frontwards	Target	0.5723	3563
 furtherer	Target	0.5723	3564
 generalizability	Target	0.5722	3565
 grayly	Target	0.5721	3566
-guessable	Target	0.2404	3567
+guessable	Target	0.2405	3567
 hatefulness	Target	0.5720	3568
 honorably	Target	0.5719	3569
 inexactness	Target	0.2404	3570
@@ -3580,7 +3580,7 @@ princeliness	Target	0.5714	3578
 probabilistically	Target	0.5713	3579
 programed	Target	0.8056	3580
 restfully	Target	0.5712	3581
-rockiness	Target	0.8056	3582
+rockiness	Target	0.8055	3582
 semifinalist	Target	0.8055	3583
 smelliness	Target	0.8055	3584
 tastelessness	Target	0.5709	3585
@@ -3636,7 +3636,7 @@ leveled	Target	0.5678	3634
 leveler	Target	0.5678	3635
 leveling	Target	0.5677	3636
 midweekly	Target	0.5676	3637
-mindfulness	Target	0.8044	3638
+mindfulness	Target	0.8043	3638
 misgoverning	Target	0.2388	3639
 misgoverns	Target	0.5674	3640
 misshape	Target	0.5674	3641
@@ -3658,7 +3658,7 @@ refinishes	Target	0.5664	3656
 replants	Target	0.5664	3657
 restfulness	Target	0.5663	3658
 retrains	Target	0.5662	3659
-revisitation	Target	0.2383	3660
+revisitation	Target	0.2384	3660
 ridership	Target	0.5661	3661
 righthander	Target	0.5661	3662
 semiweekly	Target	0.2383	3663
@@ -3666,12 +3666,12 @@ sexualizing	Target	0.5659	3664
 shakable	Target	0.5659	3665
 snowiness	Target	0.2382	3666
 sorriness	Target	0.5657	3667
-spotlessness	Target	0.2381	3668
+spotlessness	Target	0.2382	3668
 spottily	Target	0.5656	3669
 spottiness	Target	0.5656	3670
 troublingly	Target	0.5655	3671
 truthiness	Target	0.5654	3672
-unchangeably	Target	0.2380	3673
+unchangeably	Target	0.2381	3673
 unearthliness	Target	0.5653	3674
 unliveable	Target	0.8036	3675
 unpresentable	Target	0.2380	3676
@@ -3688,22 +3688,22 @@ increase	Target	0.5646	3686
 result	Target	0.8033	3687
 require	Target	0.5644	3688
 produce	Target	0.5644	3689
-remain	Target	0.8033	3690
+remain	Target	0.8032	3690
 per	Target	0.5643	3691
 product	Target	0.5642	3692
 operate	Target	0.5641	3693
 claim	Target	0.8032	3694
-example	Target	0.8032	3695
+example	Target	0.8031	3695
 apply	Target	0.5639	3696
 effect	Target	0.5639	3697
 process	Target	0.8031	3698
 create	Target	0.8031	3699
-limit	Target	0.8031	3700
+limit	Target	0.8030	3700
 economy	Target	0.8030	3701
 politics	Target	0.2374	3702
 condition	Target	0.2374	3703
 policy	Target	0.5634	3704
-value	Target	0.8030	3705
+value	Target	0.8029	3705
 social	Target	0.5633	3706
 exist	Target	0.5633	3707
 council	Target	0.2373	3708
@@ -3727,7 +3727,7 @@ development	Target	0.5621	3725
 trade	Target	0.5621	3726
 associate	Target	0.5620	3727
 discuss	Target	0.8025	3728
-demand	Target	0.8025	3729
+demand	Target	0.8024	3729
 contain	Target	0.5618	3730
 active	Target	0.8024	3731
 period	Target	0.5617	3732
@@ -3739,7 +3739,7 @@ introduce	Target	0.8023	3737
 elect	Target	0.5613	3738
 society	Target	0.5613	3739
 propose	Target	0.5612	3740
-approach	Target	0.2365	3741
+approach	Target	0.2366	3741
 research	Target	0.5611	3742
 fund	Target	0.5610	3743
 community	Target	0.8021	3744
@@ -3749,14 +3749,14 @@ event	Target	0.8021	3747
 perform	Target	0.2364	3748
 sale	Target	0.5607	3749
 project	Target	0.5606	3750
-labour	Target	0.2363	3751
+labour	Target	0.2364	3751
 political	Target	0.5605	3752
 success	Target	0.5604	3753
 compare	Target	0.5604	3754
 fail	Target	0.5603	3755
 section	Target	0.5602	3756
 likely	Target	0.5602	3757
-available	Target	0.8019	3758
+available	Target	0.8018	3758
 union	Target	0.5601	3759
 vary	Target	0.8018	3760
 seek	Target	0.5599	3761
@@ -3800,7 +3800,7 @@ grant	Target	0.8010	3798
 observe	Target	0.5576	3799
 encourage	Target	0.5576	3800
 current	Target	0.5575	3801
-site	Target	0.8010	3802
+site	Target	0.8009	3802
 activity	Target	0.8009	3803
 therefore	Target	0.8009	3804
 examine	Target	0.2352	3805
@@ -3809,7 +3809,7 @@ select	Target	0.8008	3807
 purpose	Target	0.5571	3808
 match	Target	0.8008	3809
 pattern	Target	0.5570	3810
-appoint	Target	0.8008	3811
+appoint	Target	0.8007	3811
 university	Target	0.5568	3812
 influence	Target	0.5568	3813
 evidence	Target	0.5567	3814
@@ -4080,7 +4080,7 @@ licence	Target	0.5413	4078
 engage	Target	0.5412	4079
 species	Target	0.5412	4080
 protest	Target	0.5411	4081
-bomb	Target	0.5410	4082
+bomb	Target	0.5411	4082
 eventually	Target	0.5410	4083
 speech	Target	0.5409	4084
 remind	Target	0.5409	4085
@@ -4774,7 +4774,7 @@ invitation	Target	0.5047	4772
 barely	Target	0.5047	4773
 doll	Target	0.5046	4774
 sword	Target	0.5046	4775
-tray	Target	0.5045	4776
+tray	Target	0.5046	4776
 drawer	Target	0.5045	4777
 worm	Target	0.5045	4778
 removal	Target	0.5044	4779
@@ -5220,7 +5220,7 @@ adventurous	Target	0.4839	5218
 periodical	Target	0.4839	5219
 skilful	Target	0.4838	5220
 calculator	Target	0.4838	5221
-poisonous	Target	0.4837	5222
+poisonous	Target	0.4838	5222
 favourably	Target	0.4837	5223
 modernist	Target	0.4837	5224
 stabilise	Target	0.4836	5225
@@ -5568,7 +5568,7 @@ preventative	Target	0.4689	5566
 reassuringly	Target	0.4689	5567
 wickedness	Target	0.4688	5568
 interconnection	Target	0.4688	5569
-chaser	Target	0.4687	5570
+chaser	Target	0.4688	5570
 undeniably	Target	0.4687	5571
 unattended	Target	0.4687	5572
 adaptability	Target	0.4686	5573
@@ -5806,7 +5806,7 @@ admiringly	Target	0.4592	5804
 apps	Target	0.4592	5805
 curler	Target	0.4591	5806
 invariable	Target	0.4591	5807
-unforgivable	Target	0.4590	5808
+unforgivable	Target	0.4591	5808
 unguarded	Target	0.4590	5809
 unobserved	Target	0.4590	5810
 commercialism	Target	0.4589	5811
@@ -5969,7 +5969,7 @@ unbend	Target	0.4528	5967
 unreliability	Target	0.4528	5968
 bloomer	Target	0.4527	5969
 conditionally	Target	0.4527	5970
-delightedly	Target	0.4526	5971
+delightedly	Target	0.4527	5971
 pinky	Target	0.4526	5972
 reapply	Target	0.4526	5973
 receivable	Target	0.4525	5974
@@ -7450,7 +7450,7 @@ virtual	Target	0.4023	7448
 shrug	Target	0.4022	7449
 cease	Target	0.4022	7450
 assert	Target	0.4022	7451
-vast	Target	0.4022	7452
+vast	Target	0.4021	7452
 prosecute	Target	0.4021	7453
 parish	Target	0.4021	7454
 greet	Target	0.4021	7455
@@ -7480,7 +7480,7 @@ venture	Target	0.4014	7478
 coordinate	Target	0.4013	7479
 ancient	Target	0.4013	7480
 effectively	Target	0.4013	7481
-disaster	Target	0.4013	7482
+disaster	Target	0.4012	7482
 equivalent	Target	0.4012	7483
 graduate	Target	0.4012	7484
 minimum	Target	0.4012	7485
@@ -7919,7 +7919,7 @@ composition	Target	0.3887	7917
 refugee	Target	0.3886	7918
 diverse	Target	0.3886	7919
 coalition	Target	0.3886	7920
-migrate	Target	0.3886	7921
+migrate	Target	0.3885	7921
 jet	Target	0.3885	7922
 ritual	Target	0.3885	7923
 legend	Target	0.3885	7924
@@ -8378,7 +8378,7 @@ extraction	Target	0.3763	8376
 generosity	Target	0.3762	8377
 mildly	Target	0.3762	8378
 profoundly	Target	0.3762	8379
-reinforcement	Target	0.3762	8380
+reinforcement	Target	0.3761	8380
 gravitational	Target	0.3761	8381
 critically	Target	0.3761	8382
 inefficient	Target	0.3761	8383
@@ -8490,7 +8490,7 @@ hostess	Target	0.3734	8488
 approximation	Target	0.3733	8489
 moderately	Target	0.3733	8490
 explorer	Target	0.3733	8491
-disposable	Target	0.3733	8492
+disposable	Target	0.3732	8492
 supervisory	Target	0.3732	8493
 remotely	Target	0.3732	8494
 contextual	Target	0.3732	8495
@@ -8592,7 +8592,7 @@ discreetly	Target	0.3708	8590
 exploratory	Target	0.3707	8591
 resumption	Target	0.3707	8592
 justifiable	Target	0.3707	8593
-discriminatory	Target	0.3707	8594
+discriminatory	Target	0.3706	8594
 redefine	Target	0.3706	8595
 randomise	Target	0.3706	8596
 structuralist	Target	0.3706	8597
@@ -8760,7 +8760,7 @@ bencher	Target	0.3665	8758
 expertly	Target	0.3665	8759
 interventionist	Target	0.3665	8760
 profitably	Target	0.3665	8761
-schematic	Target	0.3665	8762
+schematic	Target	0.3664	8762
 conveyancer	Target	0.3664	8763
 crystallize	Target	0.3664	8764
 fragmentary	Target	0.3664	8765
@@ -8821,7 +8821,7 @@ disable	Target	0.3650	8819
 fertilize	Target	0.3650	8820
 unprofitable	Target	0.3650	8821
 candidacy	Target	0.3650	8822
-temp	Target	0.3650	8823
+temp	Target	0.3649	8823
 colonisation	Target	0.3649	8824
 crystallise	Target	0.3649	8825
 reassessment	Target	0.3649	8826
@@ -9003,7 +9003,7 @@ forecaster	Target	0.3606	9001
 readjustment	Target	0.3606	9002
 crystallization	Target	0.3606	9003
 indistinct	Target	0.3606	9004
-triumphal	Target	0.3606	9005
+triumphal	Target	0.3605	9005
 compositional	Target	0.3605	9006
 damnation	Target	0.3605	9007
 distributive	Target	0.3605	9008
@@ -9408,7 +9408,7 @@ incorruptible	Target	0.3512	9406
 institutionally	Target	0.3512	9407
 phrasal	Target	0.3512	9408
 radiative	Target	0.3512	9409
-randomization	Target	0.3512	9410
+randomization	Target	0.3511	9410
 universalism	Target	0.3511	9411
 accompanist	Target	0.3511	9412
 curvaceous	Target	0.3511	9413
@@ -9993,7 +9993,7 @@ paneling	Target	0.3385	9991
 phenomenons	Target	0.3385	9992
 prosperousness	Target	0.3385	9993
 provocativeness	Target	0.3385	9994
-reinfecting	Target	0.3385	9995
+reinfecting	Target	0.3384	9995
 remedially	Target	0.3384	9996
 revolutionist	Target	0.3384	9997
 rumored	Target	0.3384	9998
@@ -10070,7 +10070,7 @@ merit	Target	0.3369	10068
 sociology	Target	0.3369	10069
 dot	Target	0.3369	10070
 insect	Target	0.3369	10071
-dividend	Target	0.3369	10072
+dividend	Target	0.3368	10072
 compile	Target	0.3368	10073
 constituency	Target	0.3368	10074
 satisfactory	Target	0.3368	10075
@@ -10138,7 +10138,7 @@ explode	Target	0.3355	10136
 subsidiary	Target	0.3355	10137
 departure	Target	0.3355	10138
 premier	Target	0.3355	10139
-concede	Target	0.3355	10140
+concede	Target	0.3354	10140
 stride	Target	0.3354	10141
 hammer	Target	0.3354	10142
 hierarchy	Target	0.3354	10143
@@ -10256,7 +10256,7 @@ cave	Target	0.3331	10254
 illuminate	Target	0.3331	10255
 recur	Target	0.3331	10256
 strand	Target	0.3331	10257
-scrap	Target	0.3331	10258
+scrap	Target	0.3330	10258
 fluid	Target	0.3330	10259
 spine	Target	0.3330	10260
 overlap	Target	0.3330	10261
@@ -10401,7 +10401,7 @@ script	Target	0.3302	10399
 distract	Target	0.3302	10400
 tumble	Target	0.3302	10401
 impair	Target	0.3302	10402
-boxed	Target	0.3302	10403
+boxed	Target	0.3301	10403
 erupt	Target	0.3301	10404
 gleam	Target	0.3301	10405
 peel	Target	0.3301	10406
@@ -10559,7 +10559,7 @@ capitalism	Target	0.3271	10557
 shallow	Target	0.3271	10558
 exclusion	Target	0.3271	10559
 enlighten	Target	0.3271	10560
-compress	Target	0.3271	10561
+compress	Target	0.3270	10561
 expedition	Target	0.3270	10562
 rattle	Target	0.3270	10563
 habitat	Target	0.3270	10564
@@ -10621,7 +10621,7 @@ consensus	Target	0.3259	10619
 anthropology	Target	0.3259	10620
 clone	Target	0.3259	10621
 soap	Target	0.3259	10622
-con	Target	0.3259	10623
+con	Target	0.3258	10623
 glide	Target	0.3258	10624
 goat	Target	0.3258	10625
 surge	Target	0.3258	10626
@@ -10890,7 +10890,7 @@ aggression	Target	0.3208	10888
 utterance	Target	0.3208	10889
 jazz	Target	0.3208	10890
 cynical	Target	0.3208	10891
-integral	Target	0.3208	10892
+integral	Target	0.3207	10892
 roast	Target	0.3207	10893
 stuffed	Target	0.3207	10894
 hydrogen	Target	0.3207	10895
@@ -11235,7 +11235,7 @@ illumination	Target	0.3145	11233
 entrepreneurial	Target	0.3145	11234
 leisurely	Target	0.3145	11235
 enactment	Target	0.3145	11236
-patronise	Target	0.3145	11237
+patronise	Target	0.3144	11237
 dweller	Target	0.3144	11238
 astronomer	Target	0.3144	11239
 pluralism	Target	0.3144	11240
@@ -11263,7 +11263,7 @@ activator	Target	0.3140	11261
 boldly	Target	0.3140	11262
 bounded	Target	0.3140	11263
 dispersal	Target	0.3140	11264
-articulation	Target	0.3140	11265
+articulation	Target	0.3139	11265
 animation	Target	0.3139	11266
 exaggeration	Target	0.3139	11267
 orchestral	Target	0.3139	11268
@@ -11995,7 +11995,7 @@ brutalize	Target	0.3015	11993
 floury	Target	0.3015	11994
 militantly	Target	0.3015	11995
 reclassification	Target	0.3015	11996
-stroller	Target	0.3015	11997
+stroller	Target	0.3014	11997
 enlarger	Target	0.3014	11998
 evenness	Target	0.3014	11999
 exotically	Target	0.3014	12000
@@ -12306,7 +12306,7 @@ fogginess	Target	0.2965	12304
 greaseless	Target	0.2965	12305
 haunter	Target	0.2965	12306
 humbleness	Target	0.2965	12307
-mercifulness	Target	0.2965	12308
+mercifulness	Target	0.2964	12308
 monetarily	Target	0.2964	12309
 repolarization	Target	0.2964	12310
 sentimentalism	Target	0.2964	12311
@@ -12325,7 +12325,7 @@ determent	Target	0.2962	12323
 distracter	Target	0.2962	12324
 enrollee	Target	0.2962	12325
 femininely	Target	0.2962	12326
-gloominess	Target	0.2962	12327
+gloominess	Target	0.2961	12327
 gutlessness	Target	0.2961	12328
 harmoniousness	Target	0.2961	12329
 hauler	Target	0.2961	12330
@@ -12881,7 +12881,7 @@ bulletin	Target	0.2877	12879
 compartment	Target	0.2877	12880
 ripple	Target	0.2877	12881
 chatter	Target	0.2877	12882
-microphone	Target	0.2877	12883
+microphone	Target	0.2876	12883
 solidarity	Target	0.2876	12884
 twitch	Target	0.2876	12885
 rainbow	Target	0.2876	12886
@@ -13134,7 +13134,7 @@ buckle	Target	0.2840	13132
 innocence	Target	0.2840	13133
 composite	Target	0.2840	13134
 tentative	Target	0.2840	13135
-susceptible	Target	0.2840	13136
+susceptible	Target	0.2839	13136
 fluctuation	Target	0.2839	13137
 tranquil	Target	0.2839	13138
 arctic	Target	0.2839	13139
@@ -13323,7 +13323,7 @@ aide	Target	0.2813	13321
 burglary	Target	0.2813	13322
 vaccine	Target	0.2813	13323
 maternal	Target	0.2813	13324
-oriental	Target	0.2813	13325
+oriental	Target	0.2812	13325
 outright	Target	0.2812	13326
 peninsula	Target	0.2812	13327
 pastel	Target	0.2812	13328
@@ -13552,7 +13552,7 @@ draper	Target	0.2781	13550
 patriarchal	Target	0.2781	13551
 highlander	Target	0.2781	13552
 ignition	Target	0.2781	13553
-obscenity	Target	0.2781	13554
+obscenity	Target	0.2780	13554
 saturation	Target	0.2780	13555
 intolerance	Target	0.2780	13556
 anomalous	Target	0.2780	13557
@@ -13581,7 +13581,7 @@ microscopic	Target	0.2777	13579
 ecstatic	Target	0.2777	13580
 socialization	Target	0.2777	13581
 transcendent	Target	0.2777	13582
-dyer	Target	0.2777	13583
+dyer	Target	0.2776	13583
 festivity	Target	0.2776	13584
 seasoned	Target	0.2776	13585
 sprinter	Target	0.2776	13586
@@ -13599,10 +13599,10 @@ ruthlessly	Target	0.2775	13597
 inconclusive	Target	0.2774	13598
 precipitation	Target	0.2774	13599
 orphanage	Target	0.2774	13600
-anatomical	Distant	0.2774	13601
-conspicuously	Distant	0.2774	13602
-eccentricity	Distant	0.2774	13603
-intangible	Distant	0.2774	13604
+anatomical	Target	0.2774	13601
+conspicuously	Target	0.2774	13602
+eccentricity	Target	0.2774	13603
+intangible	Target	0.2774	13604
 surfer	Distant	0.2773	13605
 vigilant	Distant	0.2773	13606
 impotent	Distant	0.2773	13607
@@ -13632,7 +13632,7 @@ yachting	Distant	0.2770	13630
 ascendancy	Distant	0.2770	13631
 botanist	Distant	0.2770	13632
 sedimentary	Distant	0.2770	13633
-ventilator	Distant	0.2770	13634
+ventilator	Distant	0.2769	13634
 numerically	Distant	0.2769	13635
 singularly	Distant	0.2769	13636
 coercive	Distant	0.2769	13637
@@ -13757,7 +13757,7 @@ drapery	Distant	0.2753	13755
 menacingly	Distant	0.2753	13756
 stewardess	Distant	0.2753	13757
 crunchy	Distant	0.2753	13758
-dusky	Distant	0.2753	13759
+dusky	Distant	0.2752	13759
 implantation	Distant	0.2752	13760
 stepson	Distant	0.2752	13761
 baronial	Distant	0.2752	13762
@@ -14810,7 +14810,7 @@ carpenter	Distant	0.2618	14808
 firework	Distant	0.2618	14809
 taunt	Distant	0.2618	14810
 ape	Distant	0.2618	14811
-beetle	Distant	0.2618	14812
+beetle	Distant	0.2617	14812
 hunch	Distant	0.2617	14813
 riddle	Distant	0.2617	14814
 shroud	Distant	0.2617	14815
@@ -14876,7 +14876,7 @@ relinquish	Distant	0.2610	14874
 impoverish	Distant	0.2610	14875
 thwart	Distant	0.2610	14876
 dynasty	Distant	0.2610	14877
-deacon	Distant	0.2610	14878
+deacon	Distant	0.2609	14878
 reap	Distant	0.2609	14879
 wretch	Distant	0.2609	14880
 diarrhoea	Distant	0.2609	14881
@@ -15085,7 +15085,7 @@ impede	Distant	0.2585	15083
 muster	Distant	0.2585	15084
 deregulate	Distant	0.2585	15085
 pathology	Distant	0.2585	15086
-chess	Distant	0.2585	15087
+chess	Distant	0.2584	15087
 dove	Distant	0.2584	15088
 fray	Distant	0.2584	15089
 mythology	Distant	0.2584	15090
@@ -15221,7 +15221,7 @@ equivocal	Distant	0.2569	15219
 incomprehensible	Distant	0.2569	15220
 reciprocal	Distant	0.2569	15221
 emphatic	Distant	0.2569	15222
-hose	Distant	0.2569	15223
+hose	Distant	0.2568	15223
 liturgy	Distant	0.2568	15224
 perpetrate	Distant	0.2568	15225
 flux	Distant	0.2568	15226
@@ -15892,7 +15892,7 @@ salience	Distant	0.2493	15890
 tenfold	Distant	0.2493	15891
 unwavering	Distant	0.2493	15892
 idolise	Distant	0.2493	15893
-impartially	Distant	0.2493	15894
+impartially	Distant	0.2492	15894
 unsurpassed	Distant	0.2492	15895
 blotter	Distant	0.2492	15896
 depositional	Distant	0.2492	15897
@@ -15956,7 +15956,7 @@ clumsiness	Distant	0.2486	15954
 deliberative	Distant	0.2486	15955
 misconstrue	Distant	0.2486	15956
 receptivity	Distant	0.2486	15957
-strangler	Distant	0.2486	15958
+strangler	Distant	0.2485	15958
 unascertained	Distant	0.2485	15959
 chili	Distant	0.2485	15960
 conspiratorially	Distant	0.2485	15961
@@ -16048,7 +16048,7 @@ clericalism	Distant	0.2476	16046
 enticement	Distant	0.2476	16047
 freelancer	Distant	0.2476	16048
 retardant	Distant	0.2476	16049
-semicolon	Distant	0.2476	16050
+semicolon	Distant	0.2475	16050
 tarty	Distant	0.2475	16051
 trekker	Distant	0.2475	16052
 abductor	Distant	0.2475	16053
@@ -16291,7 +16291,7 @@ quartette	Distant	0.2450	16289
 raggedness	Distant	0.2450	16290
 slyness	Distant	0.2450	16291
 specter	Distant	0.2450	16292
-transcriber	Distant	0.2450	16293
+transcriber	Distant	0.2449	16293
 vapor	Distant	0.2449	16294
 whorish	Distant	0.2449	16295
 wooer	Distant	0.2449	16296
@@ -16405,7 +16405,7 @@ covertness	Distant	0.2438	16403
 delinquently	Distant	0.2438	16404
 direness	Distant	0.2438	16405
 discreditably	Distant	0.2438	16406
-ductless	Distant	0.2438	16407
+ductless	Distant	0.2437	16407
 forensically	Distant	0.2437	16408
 furbisher	Distant	0.2437	16409
 idolisation	Distant	0.2437	16410
@@ -16472,7 +16472,7 @@ reveling	Distant	0.2431	16470
 savored	Distant	0.2431	16471
 scantly	Distant	0.2431	16472
 scantness	Distant	0.2431	16473
-scorner	Distant	0.2431	16474
+scorner	Distant	0.2430	16474
 semigloss	Distant	0.2430	16475
 sereneness	Distant	0.2430	16476
 skinniness	Distant	0.2430	16477
@@ -16705,7 +16705,7 @@ droop	Distant	0.2407	16703
 headlight	Distant	0.2407	16704
 scum	Distant	0.2407	16705
 blackmail	Distant	0.2407	16706
-enamel	Distant	0.2407	16707
+enamel	Distant	0.2406	16707
 gable	Distant	0.2406	16708
 grope	Distant	0.2406	16709
 tinker	Distant	0.2406	16710
@@ -16764,7 +16764,7 @@ beak	Distant	0.2401	16762
 immaculate	Distant	0.2401	16763
 protrude	Distant	0.2401	16764
 refute	Distant	0.2401	16765
-surmount	Distant	0.2401	16766
+surmount	Distant	0.2400	16766
 encroach	Distant	0.2400	16767
 inset	Distant	0.2400	16768
 sandal	Distant	0.2400	16769
@@ -16863,7 +16863,7 @@ tedious	Distant	0.2391	16861
 dislocate	Distant	0.2391	16862
 lull	Distant	0.2391	16863
 grenade	Distant	0.2391	16864
-leukaemia	Distant	0.2391	16865
+leukaemia	Distant	0.2390	16865
 hive	Distant	0.2390	16866
 hoop	Distant	0.2390	16867
 pronouncement	Distant	0.2390	16868
@@ -16983,7 +16983,7 @@ bunk	Distant	0.2379	16981
 clamour	Distant	0.2379	16982
 hallmark	Distant	0.2379	16983
 prelude	Distant	0.2379	16984
-persevere	Distant	0.2379	16985
+persevere	Distant	0.2378	16985
 amass	Distant	0.2378	16986
 chisel	Distant	0.2378	16987
 cohesion	Distant	0.2378	16988
@@ -16993,7 +16993,7 @@ innate	Distant	0.2378	16991
 expulsion	Distant	0.2378	16992
 resolute	Distant	0.2378	16993
 parity	Distant	0.2378	16994
-heron	Distant	0.2378	16995
+heron	Distant	0.2377	16995
 retina	Distant	0.2377	16996
 thereof	Distant	0.2377	16997
 utilitarian	Distant	0.2377	16998
@@ -17196,7 +17196,7 @@ raspberry	Distant	0.2358	17194
 timid	Distant	0.2358	17195
 errand	Distant	0.2358	17196
 hypocrite	Distant	0.2358	17197
-propensity	Distant	0.2358	17198
+propensity	Distant	0.2357	17198
 primacy	Distant	0.2357	17199
 almighty	Distant	0.2357	17200
 exposition	Distant	0.2357	17201
@@ -17361,7 +17361,7 @@ canyon	Distant	0.2342	17359
 misconduct	Distant	0.2342	17360
 erroneous	Distant	0.2342	17361
 extradition	Distant	0.2342	17362
-iceberg	Distant	0.2342	17363
+iceberg	Distant	0.2341	17363
 neon	Distant	0.2341	17364
 agile	Distant	0.2341	17365
 amen	Distant	0.2341	17366
@@ -17434,7 +17434,7 @@ uncanny	Distant	0.2335	17432
 astronomical	Distant	0.2335	17433
 adept	Distant	0.2335	17434
 gravy	Distant	0.2335	17435
-pageant	Distant	0.2335	17436
+pageant	Distant	0.2334	17436
 yogurt	Distant	0.2334	17437
 nomadic	Distant	0.2334	17438
 psyche	Distant	0.2334	17439
@@ -17539,7 +17539,7 @@ apologetically	Distant	0.2325	17537
 curtly	Distant	0.2325	17538
 insoluble	Distant	0.2325	17539
 ingestion	Distant	0.2325	17540
-neurological	Distant	0.2325	17541
+neurological	Distant	0.2324	17541
 governance	Distant	0.2324	17542
 taxonomic	Distant	0.2324	17543
 transgression	Distant	0.2324	17544
@@ -17613,7 +17613,7 @@ marijuana	Distant	0.2318	17611
 convulsion	Distant	0.2318	17612
 funky	Distant	0.2318	17613
 rekindle	Distant	0.2318	17614
-repentance	Distant	0.2318	17615
+repentance	Distant	0.2317	17615
 atop	Distant	0.2317	17616
 deflation	Distant	0.2317	17617
 subconsciously	Distant	0.2317	17618
@@ -17838,7 +17838,7 @@ consignor	Distant	0.2297	17836
 gadgetry	Distant	0.2297	17837
 loftily	Distant	0.2297	17838
 phenomenally	Distant	0.2297	17839
-quaintly	Distant	0.2297	17840
+quaintly	Distant	0.2296	17840
 reproachful	Distant	0.2296	17841
 sedately	Distant	0.2296	17842
 fruitfully	Distant	0.2296	17843
@@ -17914,7 +17914,7 @@ righteously	Distant	0.2290	17912
 tempering	Distant	0.2290	17913
 covetousness	Distant	0.2290	17914
 emancipatory	Distant	0.2290	17915
-endearingly	Distant	0.2290	17916
+endearingly	Distant	0.2289	17916
 molestation	Distant	0.2289	17917
 molester	Distant	0.2289	17918
 roble	Distant	0.2289	17919
@@ -18234,7 +18234,7 @@ millimeter	Distant	0.2261	18232
 ornateness	Distant	0.2261	18233
 pompousness	Distant	0.2261	18234
 precursory	Distant	0.2261	18235
-remorselessness	Distant	0.2261	18236
+remorselessness	Distant	0.2260	18236
 savior	Distant	0.2260	18237
 sedateness	Distant	0.2260	18238
 starchily	Distant	0.2260	18239
@@ -18290,7 +18290,7 @@ repentantly	Distant	0.2256	18288
 rustically	Distant	0.2256	18289
 sagebrush	Distant	0.2256	18290
 seclusive	Distant	0.2256	18291
-semivowel	Distant	0.2256	18292
+semivowel	Distant	0.2255	18292
 separably	Distant	0.2255	18293
 superrich	Distant	0.2255	18294
 temperateness	Distant	0.2255	18295
@@ -18335,7 +18335,7 @@ nasalization	Distant	0.2252	18333
 nasalize	Distant	0.2252	18334
 neurologic	Distant	0.2252	18335
 nonvenomous	Distant	0.2252	18336
-ordainment	Distant	0.2252	18337
+ordainment	Distant	0.2251	18337
 piousness	Distant	0.2251	18338
 prehistorically	Distant	0.2251	18339
 prickliest	Distant	0.2251	18340
@@ -18818,7 +18818,7 @@ stationery	Distant	0.2210	18816
 astrology	Distant	0.2210	18817
 beset	Distant	0.2210	18818
 grandeur	Distant	0.2210	18819
-inertia	Distant	0.2210	18820
+inertia	Distant	0.2209	18820
 smirk	Distant	0.2209	18821
 baton	Distant	0.2209	18822
 brothel	Distant	0.2209	18823
@@ -18865,7 +18865,7 @@ bogus	Distant	0.2206	18863
 fraught	Distant	0.2206	18864
 maroon	Distant	0.2206	18865
 consequential	Distant	0.2206	18866
-maize	Distant	0.2206	18867
+maize	Distant	0.2205	18867
 masquerade	Distant	0.2205	18868
 metamorphose	Distant	0.2205	18869
 fillet	Distant	0.2205	18870
@@ -18924,7 +18924,7 @@ rotary	Distant	0.2201	18922
 shorthand	Distant	0.2201	18923
 realign	Distant	0.2201	18924
 slang	Distant	0.2201	18925
-troll	Distant	0.2201	18926
+troll	Distant	0.2200	18926
 binge	Distant	0.2200	18927
 pun	Distant	0.2200	18928
 starling	Distant	0.2200	18929
@@ -19019,7 +19019,7 @@ gorilla	Distant	0.2193	19017
 sullen	Distant	0.2193	19018
 astute	Distant	0.2193	19019
 conducive	Distant	0.2193	19020
-gobble	Distant	0.2193	19021
+gobble	Distant	0.2192	19021
 nay	Distant	0.2192	19022
 folklore	Distant	0.2192	19023
 lotion	Distant	0.2192	19024
@@ -19031,7 +19031,7 @@ zion	Distant	0.2192	19029
 macho	Distant	0.2192	19030
 parochial	Distant	0.2192	19031
 soiled	Distant	0.2192	19032
-punt	Distant	0.2192	19033
+punt	Distant	0.2191	19033
 legitimise	Distant	0.2191	19034
 soles	Distant	0.2191	19035
 discord	Distant	0.2191	19036
@@ -19175,7 +19175,7 @@ clam	Distant	0.2180	19173
 concomitant	Distant	0.2180	19174
 lug	Distant	0.2180	19175
 obstetrics	Distant	0.2180	19176
-wholesome	Distant	0.2180	19177
+wholesome	Distant	0.2179	19177
 beige	Distant	0.2179	19178
 hospitable	Distant	0.2179	19179
 afloat	Distant	0.2179	19180
@@ -19187,7 +19187,7 @@ intractable	Distant	0.2179	19185
 permanence	Distant	0.2179	19186
 rut	Distant	0.2179	19187
 devout	Distant	0.2179	19188
-eucharist	Distant	0.2179	19189
+eucharist	Distant	0.2178	19189
 lustre	Distant	0.2178	19190
 wiggle	Distant	0.2178	19191
 inextricable	Distant	0.2178	19192
@@ -19284,7 +19284,7 @@ autocratic	Distant	0.2171	19282
 overboard	Distant	0.2171	19283
 paralysis	Distant	0.2171	19284
 realignment	Distant	0.2171	19285
-ultrasound	Distant	0.2171	19286
+ultrasound	Distant	0.2170	19286
 commotion	Distant	0.2170	19287
 indeterminate	Distant	0.2170	19288
 mayonnaise	Distant	0.2170	19289
@@ -19431,7 +19431,7 @@ algebraic	Distant	0.2159	19429
 discordant	Distant	0.2159	19430
 laboriously	Distant	0.2159	19431
 dehydration	Distant	0.2159	19432
-leaden	Distant	0.2159	19433
+leaden	Distant	0.2158	19433
 sorcery	Distant	0.2158	19434
 pentagonal	Distant	0.2158	19435
 podium	Distant	0.2158	19436
@@ -19468,7 +19468,7 @@ decadent	Distant	0.2156	19466
 laudable	Distant	0.2156	19467
 demoralize	Distant	0.2156	19468
 frothy	Distant	0.2156	19469
-pacifism	Distant	0.2156	19470
+pacifism	Distant	0.2155	19470
 biodiversity	Distant	0.2155	19471
 lassie	Distant	0.2155	19472
 polemical	Distant	0.2155	19473
@@ -19844,7 +19844,7 @@ catalyze	Distant	0.2126	19842
 chastely	Distant	0.2126	19843
 epochal	Distant	0.2126	19844
 grandiosity	Distant	0.2126	19845
-intrusiveness	Distant	0.2126	19846
+intrusiveness	Distant	0.2125	19846
 phonologist	Distant	0.2125	19847
 placidity	Distant	0.2125	19848
 tyred	Distant	0.2125	19849
@@ -19895,7 +19895,7 @@ extortionist	Distant	0.2122	19893
 flimsily	Distant	0.2122	19894
 freckly	Distant	0.2122	19895
 homeopath	Distant	0.2122	19896
-idiosyncratically	Distant	0.2122	19897
+idiosyncratically	Distant	0.2121	19897
 inadmissibility	Distant	0.2121	19898
 jauntiness	Distant	0.2121	19899
 mistrustfully	Distant	0.2121	19900
@@ -19959,7 +19959,7 @@ binging	Distant	0.2117	19957
 counterespionage	Distant	0.2117	19958
 devoutness	Distant	0.2117	19959
 expatriation	Distant	0.2117	19960
-fervor	Distant	0.2117	19961
+fervor	Distant	0.2116	19961
 genealogically	Distant	0.2116	19962
 hobbler	Distant	0.2116	19963
 indiscernible	Distant	0.2116	19964
@@ -20075,7 +20075,7 @@ gruelingly	Distant	0.2108	20073
 impalpably	Distant	0.2108	20074
 injudiciousness	Distant	0.2108	20075
 innumerably	Distant	0.2108	20076
-jauntier	Distant	0.2108	20077
+jauntier	Distant	0.2107	20077
 jauntiest	Distant	0.2107	20078
 kayaker	Distant	0.2107	20079
 leadenly	Distant	0.2107	20080
@@ -20088,7 +20088,7 @@ nonbelligerent	Distant	0.2107	20086
 nonhereditary	Distant	0.2107	20087
 noninvasive	Distant	0.2107	20088
 nonporous	Distant	0.2107	20089
-outdate	Distant	0.2107	20090
+outdate	Distant	0.2106	20090
 outdates	Distant	0.2106	20091
 outdating	Distant	0.2106	20092
 palatalise	Distant	0.2106	20093
@@ -20101,7 +20101,7 @@ shorthands	Distant	0.2106	20099
 smolder	Distant	0.2106	20100
 smoldered	Distant	0.2106	20101
 stagnantly	Distant	0.2106	20102
-stockiness	Distant	0.2106	20103
+stockiness	Distant	0.2105	20103
 straddler	Distant	0.2105	20104
 stratums	Distant	0.2105	20105
 supermom	Distant	0.2105	20106
@@ -20153,7 +20153,7 @@ molar	Distant	0.2102	20151
 quay	Distant	0.2102	20152
 crypt	Distant	0.2102	20153
 signatory	Distant	0.2102	20154
-polyp	Distant	0.2102	20155
+polyp	Distant	0.2101	20155
 pursuant	Distant	0.2101	20156
 quash	Distant	0.2101	20157
 leach	Distant	0.2101	20158
@@ -20166,7 +20166,7 @@ ruby	Distant	0.2101	20164
 parse	Distant	0.2101	20165
 eddy	Distant	0.2101	20166
 dinghy	Distant	0.2101	20167
-loo	Distant	0.2101	20168
+loo	Distant	0.2100	20168
 monsieur	Distant	0.2100	20169
 serf	Distant	0.2100	20170
 kilo	Distant	0.2100	20171
@@ -20179,7 +20179,7 @@ sultan	Distant	0.2100	20177
 nutty	Distant	0.2100	20178
 jeer	Distant	0.2100	20179
 undertaker	Distant	0.2100	20180
-marina	Distant	0.2100	20181
+marina	Distant	0.2099	20181
 bailiff	Distant	0.2099	20182
 abate	Distant	0.2099	20183
 aria	Distant	0.2099	20184
@@ -20297,7 +20297,7 @@ settee	Distant	0.2091	20295
 disquiet	Distant	0.2091	20296
 wart	Distant	0.2091	20297
 custodian	Distant	0.2091	20298
-directorate	Distant	0.2091	20299
+directorate	Distant	0.2090	20299
 tiller	Distant	0.2090	20300
 reissue	Distant	0.2090	20301
 sortie	Distant	0.2090	20302
@@ -20363,7 +20363,7 @@ zebra	Distant	0.2086	20361
 gurgle	Distant	0.2086	20362
 precept	Distant	0.2086	20363
 stalwart	Distant	0.2086	20364
-banister	Distant	0.2086	20365
+banister	Distant	0.2085	20365
 embroil	Distant	0.2085	20366
 matrimonial	Distant	0.2085	20367
 vestige	Distant	0.2085	20368
@@ -20456,7 +20456,7 @@ fibrosis	Distant	0.2079	20454
 scathing	Distant	0.2079	20455
 capillary	Distant	0.2079	20456
 fiduciary	Distant	0.2079	20457
-slat	Distant	0.2079	20458
+slat	Distant	0.2078	20458
 crossword	Distant	0.2078	20459
 indie	Distant	0.2078	20460
 orgy	Distant	0.2078	20461
@@ -20590,7 +20590,7 @@ lifeline	Distant	0.2069	20588
 surmise	Distant	0.2069	20589
 callous	Distant	0.2069	20590
 chivalry	Distant	0.2069	20591
-suitor	Distant	0.2069	20592
+suitor	Distant	0.2068	20592
 tenable	Distant	0.2068	20593
 connoisseur	Distant	0.2068	20594
 fiend	Distant	0.2068	20595
@@ -20644,7 +20644,7 @@ tearful	Distant	0.2065	20642
 jest	Distant	0.2065	20643
 provenance	Distant	0.2065	20644
 repose	Distant	0.2065	20645
-terse	Distant	0.2065	20646
+terse	Distant	0.2064	20646
 transatlantic	Distant	0.2064	20647
 accolade	Distant	0.2064	20648
 lethargy	Distant	0.2064	20649
@@ -20671,7 +20671,7 @@ slander	Distant	0.2063	20669
 furtive	Distant	0.2063	20670
 herbicide	Distant	0.2063	20671
 outcast	Distant	0.2063	20672
-backlog	Distant	0.2063	20673
+backlog	Distant	0.2062	20673
 despot	Distant	0.2062	20674
 globule	Distant	0.2062	20675
 impassive	Distant	0.2062	20676
@@ -20862,7 +20862,7 @@ restitution	Distant	0.2049	20860
 demarcation	Distant	0.2049	20861
 fateful	Distant	0.2049	20862
 fetish	Distant	0.2049	20863
-malnutrition	Distant	0.2049	20864
+malnutrition	Distant	0.2048	20864
 truancy	Distant	0.2048	20865
 bandwagon	Distant	0.2048	20866
 pessimism	Distant	0.2048	20867
@@ -21014,7 +21014,7 @@ innuendo	Distant	0.2038	21012
 kw	Distant	0.2038	21013
 atypical	Distant	0.2038	21014
 solace	Distant	0.2038	21015
-afar	Distant	0.2038	21016
+afar	Distant	0.2037	21016
 arsenic	Distant	0.2037	21017
 alligator	Distant	0.2037	21018
 derail	Distant	0.2037	21019
@@ -21210,7 +21210,7 @@ capitulation	Distant	0.2024	21208
 obstinacy	Distant	0.2024	21209
 parser	Distant	0.2024	21210
 incrimination	Distant	0.2024	21211
-por	Distant	0.2024	21212
+por	Distant	0.2023	21212
 yonder	Distant	0.2023	21213
 extermination	Distant	0.2023	21214
 hunky	Distant	0.2023	21215
@@ -21309,7 +21309,7 @@ stubbly	Distant	0.2017	21307
 accrete	Distant	0.2017	21308
 chivalric	Distant	0.2017	21309
 denigration	Distant	0.2017	21310
-gratuitously	Distant	0.2017	21311
+gratuitously	Distant	0.2016	21311
 prolog	Distant	0.2016	21312
 yummy	Distant	0.2016	21313
 contortion	Distant	0.2016	21314
@@ -21567,7 +21567,7 @@ catheterise	Distant	0.1999	21565
 chivalrously	Distant	0.1999	21566
 congeniality	Distant	0.1999	21567
 cronyism	Distant	0.1999	21568
-enterprisingly	Distant	0.1999	21569
+enterprisingly	Distant	0.1998	21569
 fluky	Distant	0.1998	21570
 homeliness	Distant	0.1998	21571
 impenetrably	Distant	0.1998	21572
@@ -21596,7 +21596,7 @@ superfluously	Distant	0.1997	21594
 unchivalrous	Distant	0.1997	21595
 canonically	Distant	0.1997	21596
 cheeking	Distant	0.1997	21597
-disorganize	Distant	0.1997	21598
+disorganize	Distant	0.1996	21598
 fizzer	Distant	0.1996	21599
 flukey	Distant	0.1996	21600
 gaudiness	Distant	0.1996	21601
@@ -21625,7 +21625,7 @@ wishfully	Distant	0.1995	21623
 amicability	Distant	0.1995	21624
 barbarically	Distant	0.1995	21625
 blusterer	Distant	0.1995	21626
-bragger	Distant	0.1995	21627
+bragger	Distant	0.1994	21627
 ceder	Distant	0.1994	21628
 congenially	Distant	0.1994	21629
 contiguously	Distant	0.1994	21630
@@ -21830,7 +21830,7 @@ priory	Distant	0.1981	21828
 arbitrage	Distant	0.1981	21829
 executor	Distant	0.1981	21830
 cistern	Distant	0.1981	21831
-mollusc	Distant	0.1981	21832
+mollusc	Distant	0.1980	21832
 heterogeneous	Distant	0.1980	21833
 plait	Distant	0.1980	21834
 courtier	Distant	0.1980	21835
@@ -21889,7 +21889,7 @@ displease	Distant	0.1977	21887
 buzzard	Distant	0.1977	21888
 yew	Distant	0.1977	21889
 vagrant	Distant	0.1977	21890
-partridge	Distant	0.1977	21891
+partridge	Distant	0.1976	21891
 emotive	Distant	0.1976	21892
 befit	Distant	0.1976	21893
 jangle	Distant	0.1976	21894
@@ -22008,7 +22008,7 @@ cajole	Distant	0.1969	22006
 transverse	Distant	0.1969	22007
 dote	Distant	0.1969	22008
 antiquarian	Distant	0.1969	22009
-disobey	Distant	0.1969	22010
+disobey	Distant	0.1968	22010
 guillotine	Distant	0.1968	22011
 ornithology	Distant	0.1968	22012
 nymph	Distant	0.1968	22013
@@ -22023,7 +22023,7 @@ rhododendron	Distant	0.1968	22021
 chieftain	Distant	0.1968	22022
 derange	Distant	0.1968	22023
 metastasis	Distant	0.1968	22024
-myocardial	Distant	0.1968	22025
+myocardial	Distant	0.1967	22025
 loin	Distant	0.1967	22026
 overdrive	Distant	0.1967	22027
 prance	Distant	0.1967	22028
@@ -22113,7 +22113,7 @@ loiter	Distant	0.1962	22111
 potty	Distant	0.1962	22112
 sidle	Distant	0.1962	22113
 sinew	Distant	0.1962	22114
-streamer	Distant	0.1962	22115
+streamer	Distant	0.1961	22115
 swastika	Distant	0.1961	22116
 bemoan	Distant	0.1961	22117
 debase	Distant	0.1961	22118
@@ -22128,7 +22128,7 @@ snippet	Distant	0.1961	22126
 supposition	Distant	0.1961	22127
 actuarial	Distant	0.1961	22128
 jettison	Distant	0.1961	22129
-outdo	Distant	0.1961	22130
+outdo	Distant	0.1960	22130
 physiotherapy	Distant	0.1960	22131
 tome	Distant	0.1960	22132
 triplet	Distant	0.1960	22133
@@ -22249,7 +22249,7 @@ epitome	Distant	0.1953	22247
 negotiable	Distant	0.1953	22248
 bleep	Distant	0.1953	22249
 demented	Distant	0.1953	22250
-dowry	Distant	0.1953	22251
+dowry	Distant	0.1952	22251
 grandstand	Distant	0.1952	22252
 handset	Distant	0.1952	22253
 parenthesis	Distant	0.1952	22254
@@ -22634,7 +22634,7 @@ accordion	Distant	0.1928	22632
 feral	Distant	0.1928	22633
 fitful	Distant	0.1928	22634
 gauze	Distant	0.1928	22635
-glitz	Distant	0.1928	22636
+glitz	Distant	0.1927	22636
 particulate	Distant	0.1927	22637
 assiduously	Distant	0.1927	22638
 barrio	Distant	0.1927	22639
@@ -22870,7 +22870,7 @@ demurely	Distant	0.1913	22868
 dime	Distant	0.1913	22869
 imperiously	Distant	0.1913	22870
 inflammable	Distant	0.1913	22871
-prosthesis	Distant	0.1913	22872
+prosthesis	Distant	0.1912	22872
 pueblo	Distant	0.1912	22873
 demobilize	Distant	0.1912	22874
 haughtily	Distant	0.1912	22875
@@ -23126,7 +23126,7 @@ hydroelectricity	Distant	0.1897	23124
 incommensurate	Distant	0.1897	23125
 inscrutability	Distant	0.1897	23126
 intrepidity	Distant	0.1897	23127
-leanness	Distant	0.1897	23128
+leanness	Distant	0.1896	23128
 overemphasis	Distant	0.1896	23129
 pubis	Distant	0.1896	23130
 tuberous	Distant	0.1896	23131
@@ -23207,7 +23207,7 @@ ponderousness	Distant	0.1892	23205
 precociousness	Distant	0.1892	23206
 prenatally	Distant	0.1892	23207
 raptly	Distant	0.1892	23208
-repulsively	Distant	0.1892	23209
+repulsively	Distant	0.1891	23209
 semiotician	Distant	0.1891	23210
 spinsterish	Distant	0.1891	23211
 sultriness	Distant	0.1891	23212
@@ -23272,7 +23272,7 @@ wackiness	Distant	0.1888	23270
 yok	Distant	0.1888	23271
 abjectness	Distant	0.1888	23272
 ambulation	Distant	0.1888	23273
-chubbiness	Distant	0.1888	23274
+chubbiness	Distant	0.1887	23274
 concentrically	Distant	0.1887	23275
 concordancer	Distant	0.1887	23276
 craftiness	Distant	0.1887	23277
@@ -23321,7 +23321,7 @@ dankly	Distant	0.1885	23319
 defrauder	Distant	0.1885	23320
 dingily	Distant	0.1885	23321
 disembodiment	Distant	0.1885	23322
-disembody	Distant	0.1885	23323
+disembody	Distant	0.1884	23323
 dishonorable	Distant	0.1884	23324
 druidism	Distant	0.1884	23325
 fitfulness	Distant	0.1884	23326
@@ -23403,7 +23403,7 @@ inscrutableness	Distant	0.1880	23401
 irateness	Distant	0.1880	23402
 itinerantly	Distant	0.1880	23403
 lyncher	Distant	0.1880	23404
-manoeuver	Distant	0.1880	23405
+manoeuver	Distant	0.1879	23405
 metastatically	Distant	0.1879	23406
 microcosmically	Distant	0.1879	23407
 mirthfulness	Distant	0.1879	23408
@@ -23436,7 +23436,7 @@ voodooism	Distant	0.1878	23434
 voyeurist	Distant	0.1878	23435
 wiriness	Distant	0.1878	23436
 xenophobe	Distant	0.1878	23437
-microsystem	Distant	0.1878	23438
+microsystem	Distant	0.1877	23438
 artefact	Distant	0.1877	23439
 megahertz	Distant	0.1877	23440
 mhz	Distant	0.1877	23441
@@ -23469,7 +23469,7 @@ harrier	Distant	0.1876	23467
 collate	Distant	0.1876	23468
 papillae	Distant	0.1876	23469
 laird	Distant	0.1876	23470
-thresh	Distant	0.1876	23471
+thresh	Distant	0.1875	23471
 finch	Distant	0.1875	23472
 belle	Distant	0.1875	23473
 billet	Distant	0.1875	23474
@@ -23502,7 +23502,7 @@ kingfisher	Distant	0.1874	23500
 leech	Distant	0.1874	23501
 overlie	Distant	0.1874	23502
 stile	Distant	0.1874	23503
-herbivore	Distant	0.1874	23504
+herbivore	Distant	0.1873	23504
 adduce	Distant	0.1873	23505
 piazza	Distant	0.1873	23506
 suffix	Distant	0.1873	23507
@@ -23719,7 +23719,7 @@ genotype	Distant	0.1861	23717
 aqueduct	Distant	0.1861	23718
 bronchitis	Distant	0.1861	23719
 glade	Distant	0.1861	23720
-omnibus	Distant	0.1861	23721
+omnibus	Distant	0.1860	23721
 tussle	Distant	0.1860	23722
 metallurgy	Distant	0.1860	23723
 permutate	Distant	0.1860	23724
@@ -23837,7 +23837,7 @@ luminary	Distant	0.1854	23835
 meme	Distant	0.1854	23836
 silo	Distant	0.1854	23837
 untoward	Distant	0.1854	23838
-pontificate	Distant	0.1854	23839
+pontificate	Distant	0.1853	23839
 blacklist	Distant	0.1853	23840
 cranny	Distant	0.1853	23841
 croquet	Distant	0.1853	23842
@@ -23854,7 +23854,7 @@ dandy	Distant	0.1853	23852
 ghoul	Distant	0.1853	23853
 infantile	Distant	0.1853	23854
 lollipop	Distant	0.1853	23855
-macroscopic	Distant	0.1853	23856
+macroscopic	Distant	0.1852	23856
 ovulate	Distant	0.1852	23857
 titbit	Distant	0.1852	23858
 contemporaneous	Distant	0.1852	23859
@@ -23871,7 +23871,7 @@ orthography	Distant	0.1852	23869
 slosh	Distant	0.1852	23870
 betrothed	Distant	0.1852	23871
 cabby	Distant	0.1852	23872
-croissant	Distant	0.1852	23873
+croissant	Distant	0.1851	23873
 inseminate	Distant	0.1851	23874
 loam	Distant	0.1851	23875
 rearmament	Distant	0.1851	23876
@@ -23922,7 +23922,7 @@ overjoyed	Distant	0.1849	23920
 pygmy	Distant	0.1849	23921
 telepathy	Distant	0.1849	23922
 asymptomatic	Distant	0.1849	23923
-bulwark	Distant	0.1849	23924
+bulwark	Distant	0.1848	23924
 hyena	Distant	0.1848	23925
 impetuous	Distant	0.1848	23926
 philology	Distant	0.1848	23927
@@ -23939,7 +23939,7 @@ azalea	Distant	0.1848	23937
 benzene	Distant	0.1848	23938
 berserk	Distant	0.1848	23939
 clammy	Distant	0.1848	23940
-couture	Distant	0.1848	23941
+couture	Distant	0.1847	23941
 embolden	Distant	0.1847	23942
 girth	Distant	0.1847	23943
 paragon	Distant	0.1847	23944
@@ -23956,7 +23956,7 @@ snooze	Distant	0.1847	23954
 erudite	Distant	0.1847	23955
 flax	Distant	0.1847	23956
 galore	Distant	0.1847	23957
-mnemonic	Distant	0.1847	23958
+mnemonic	Distant	0.1846	23958
 palliative	Distant	0.1846	23959
 pinstripe	Distant	0.1846	23960
 secede	Distant	0.1846	23961
@@ -24076,7 +24076,7 @@ kindred	Distant	0.1840	24074
 polyurethane	Distant	0.1840	24075
 pronged	Distant	0.1840	24076
 saucy	Distant	0.1840	24077
-buccaneer	Distant	0.1840	24078
+buccaneer	Distant	0.1839	24078
 glib	Distant	0.1839	24079
 opal	Distant	0.1839	24080
 overbearing	Distant	0.1839	24081
@@ -24145,7 +24145,7 @@ constancy	Distant	0.1836	24143
 hologram	Distant	0.1836	24144
 misnomer	Distant	0.1836	24145
 suave	Distant	0.1836	24146
-diffract	Distant	0.1836	24147
+diffract	Distant	0.1835	24147
 droves	Distant	0.1835	24148
 fjord	Distant	0.1835	24149
 fortitude	Distant	0.1835	24150
@@ -24197,7 +24197,7 @@ habitable	Distant	0.1833	24195
 hypothermia	Distant	0.1833	24196
 puke	Distant	0.1833	24197
 receptacle	Distant	0.1833	24198
-staid	Distant	0.1833	24199
+staid	Distant	0.1832	24199
 teal	Distant	0.1832	24200
 uptight	Distant	0.1832	24201
 volition	Distant	0.1832	24202
@@ -24249,7 +24249,7 @@ ilk	Distant	0.1830	24247
 iridescent	Distant	0.1830	24248
 pedantic	Distant	0.1830	24249
 poetics	Distant	0.1830	24250
-recursive	Distant	0.1830	24251
+recursive	Distant	0.1829	24251
 rutted	Distant	0.1829	24252
 aryan	Distant	0.1829	24253
 goalie	Distant	0.1829	24254
@@ -24389,7 +24389,7 @@ ignominious	Distant	0.1822	24387
 propane	Distant	0.1822	24388
 reconvened	Distant	0.1822	24389
 cranky	Distant	0.1822	24390
-inbred	Distant	0.1822	24391
+inbred	Distant	0.1821	24391
 laconically	Distant	0.1821	24392
 matriculation	Distant	0.1821	24393
 paedophile	Distant	0.1821	24394
@@ -24477,7 +24477,7 @@ androgynous	Distant	0.1817	24475
 centennial	Distant	0.1817	24476
 contemporaneously	Distant	0.1817	24477
 demilitarize	Distant	0.1817	24478
-macaroni	Distant	0.1817	24479
+macaroni	Distant	0.1816	24479
 multidimensional	Distant	0.1816	24480
 overpayment	Distant	0.1816	24481
 overtax	Distant	0.1816	24482
@@ -24619,7 +24619,7 @@ demilitarization	Distant	0.1809	24617
 hygienically	Distant	0.1809	24618
 inanely	Distant	0.1809	24619
 slushy	Distant	0.1809	24620
-squeamishness	Distant	0.1809	24621
+squeamishness	Distant	0.1808	24621
 acidify	Distant	0.1808	24622
 implosion	Distant	0.1808	24623
 nihilist	Distant	0.1808	24624
@@ -24925,7 +24925,7 @@ solicitousness	Distant	0.1792	24923
 squalidly	Distant	0.1792	24924
 squalidness	Distant	0.1792	24925
 suffixation	Distant	0.1792	24926
-talkatively	Distant	0.1792	24927
+talkatively	Distant	0.1791	24927
 tortuousness	Distant	0.1791	24928
 transmigrate	Distant	0.1791	24929
 unseemliness	Distant	0.1791	24930
@@ -24998,7 +24998,7 @@ podcasts	Distant	0.1788	24996
 polyurethaned	Distant	0.1788	24997
 prefixation	Distant	0.1788	24998
 premeditative	Distant	0.1788	24999
-premeditator	Distant	0.1788	25000
+premeditator	Distant	0.1787	25000
 proselyte	Distant	0.1787	25001
 proselytization	Distant	0.1787	25002
 rabidness	Distant	0.1787	25003
@@ -25108,7 +25108,7 @@ interpose	Distant	0.1782	25106
 swill	Distant	0.1782	25107
 steed	Distant	0.1782	25108
 subduct	Distant	0.1782	25109
-polynomial	Distant	0.1782	25110
+polynomial	Distant	0.1781	25110
 scruple	Distant	0.1781	25111
 cheerio	Distant	0.1781	25112
 warder	Distant	0.1781	25113
@@ -25293,7 +25293,7 @@ perinatal	Distant	0.1772	25291
 puma	Distant	0.1772	25292
 serrate	Distant	0.1772	25293
 chlorinate	Distant	0.1772	25294
-debutante	Distant	0.1772	25295
+debutante	Distant	0.1771	25295
 welter	Distant	0.1771	25296
 fuchsia	Distant	0.1771	25297
 herbaceous	Distant	0.1771	25298
@@ -25349,7 +25349,7 @@ umpteen	Distant	0.1769	25347
 wench	Distant	0.1769	25348
 briar	Distant	0.1769	25349
 empiricism	Distant	0.1769	25350
-garble	Distant	0.1769	25351
+garble	Distant	0.1768	25351
 henchman	Distant	0.1768	25352
 rivulet	Distant	0.1768	25353
 venereal	Distant	0.1768	25354
@@ -25518,7 +25518,7 @@ funerary	Distant	0.1760	25516
 stiletto	Distant	0.1760	25517
 taffeta	Distant	0.1760	25518
 amulet	Distant	0.1760	25519
-barbarous	Distant	0.1760	25520
+barbarous	Distant	0.1759	25520
 chauvinism	Distant	0.1759	25521
 chimera	Distant	0.1759	25522
 flipper	Distant	0.1759	25523
@@ -25708,7 +25708,7 @@ poop	Distant	0.1750	25706
 rusk	Distant	0.1750	25707
 dapper	Distant	0.1750	25708
 homogenize	Distant	0.1750	25709
-hummus	Distant	0.1750	25710
+hummus	Distant	0.1749	25710
 jubilation	Distant	0.1749	25711
 rapacious	Distant	0.1749	25712
 reify	Distant	0.1749	25713
@@ -25727,7 +25727,7 @@ paunch	Distant	0.1749	25725
 phalanx	Distant	0.1749	25726
 stardust	Distant	0.1749	25727
 vats	Distant	0.1749	25728
-aground	Distant	0.1749	25729
+aground	Distant	0.1748	25729
 chlorophyll	Distant	0.1748	25730
 conflagration	Distant	0.1748	25731
 corona	Distant	0.1748	25732
@@ -25823,7 +25823,7 @@ depersonalize	Distant	0.1744	25821
 landfall	Distant	0.1744	25822
 meow	Distant	0.1744	25823
 roulette	Distant	0.1744	25824
-vaudeville	Distant	0.1744	25825
+vaudeville	Distant	0.1743	25825
 efficacious	Distant	0.1743	25826
 ineffable	Distant	0.1743	25827
 lactose	Distant	0.1743	25828
@@ -26036,7 +26036,7 @@ teleology	Distant	0.1733	26034
 acclimatize	Distant	0.1733	26035
 eschatology	Distant	0.1733	26036
 iconoclastic	Distant	0.1733	26037
-interment	Distant	0.1733	26038
+interment	Distant	0.1732	26038
 overpopulation	Distant	0.1732	26039
 recapitulation	Distant	0.1732	26040
 serendipitous	Distant	0.1732	26041
@@ -26252,7 +26252,7 @@ fungicidal	Distant	0.1722	26250
 infinitesimally	Distant	0.1722	26251
 legoland	Distant	0.1722	26252
 magnanimously	Distant	0.1722	26253
-multilingualism	Distant	0.1722	26254
+multilingualism	Distant	0.1721	26254
 petering	Distant	0.1721	26255
 restiveness	Distant	0.1721	26256
 standoffish	Distant	0.1721	26257
@@ -26371,7 +26371,7 @@ gawkily	Distant	0.1716	26369
 gawkiness	Distant	0.1716	26370
 humous	Distant	0.1716	26371
 hydrologically	Distant	0.1716	26372
-immanently	Distant	0.1716	26373
+immanently	Distant	0.1715	26373
 inarticulately	Distant	0.1715	26374
 inimically	Distant	0.1715	26375
 mercurially	Distant	0.1715	26376
@@ -26391,7 +26391,7 @@ avariciously	Distant	0.1715	26389
 balefulness	Distant	0.1715	26390
 cheesiness	Distant	0.1715	26391
 convivially	Distant	0.1715	26392
-counterattacking	Distant	0.1715	26393
+counterattacking	Distant	0.1714	26393
 dapperly	Distant	0.1714	26394
 decolonize	Distant	0.1714	26395
 exfoliant	Distant	0.1714	26396
@@ -26511,7 +26511,7 @@ iconoclastically	Distant	0.1709	26509
 indigently	Distant	0.1709	26510
 insufferableness	Distant	0.1709	26511
 larcenist	Distant	0.1709	26512
-lecherousness	Distant	0.1709	26513
+lecherousness	Distant	0.1708	26513
 limberness	Distant	0.1708	26514
 loathsomely	Distant	0.1708	26515
 maced	Distant	0.1708	26516
@@ -26531,7 +26531,7 @@ prudishly	Distant	0.1708	26529
 pulverisation	Distant	0.1708	26530
 quiescently	Distant	0.1708	26531
 rarefies	Distant	0.1708	26532
-sissyish	Distant	0.1708	26533
+sissyish	Distant	0.1707	26533
 sodomist	Distant	0.1707	26534
 sodomize	Distant	0.1707	26535
 sonorousness	Distant	0.1707	26536
@@ -26713,7 +26713,7 @@ bangers	Distant	0.1699	26711
 colic	Distant	0.1699	26712
 occlude	Distant	0.1699	26713
 plebeian	Distant	0.1699	26714
-spangle	Distant	0.1699	26715
+spangle	Distant	0.1698	26715
 chit	Distant	0.1698	26716
 imbibe	Distant	0.1698	26717
 gnash	Distant	0.1698	26718
@@ -26774,7 +26774,7 @@ whey	Distant	0.1696	26772
 besotted	Distant	0.1696	26773
 biplane	Distant	0.1696	26774
 bobble	Distant	0.1696	26775
-capitation	Distant	0.1696	26776
+capitation	Distant	0.1695	26776
 centigrade	Distant	0.1695	26777
 galleon	Distant	0.1695	26778
 phenol	Distant	0.1695	26779
@@ -26815,7 +26815,7 @@ deux	Distant	0.1694	26813
 jib	Distant	0.1694	26814
 actin	Distant	0.1694	26815
 chem	Distant	0.1694	26816
-swashbuckle	Distant	0.1694	26817
+swashbuckle	Distant	0.1693	26817
 bod	Distant	0.1693	26818
 drunkard	Distant	0.1693	26819
 immunohistochemistry	Distant	0.1693	26820
@@ -26897,7 +26897,7 @@ flashpoint	Distant	0.1690	26895
 pumice	Distant	0.1690	26896
 transect	Distant	0.1690	26897
 twit	Distant	0.1690	26898
-valance	Distant	0.1690	26899
+valance	Distant	0.1689	26899
 appellation	Distant	0.1689	26900
 courtesan	Distant	0.1689	26901
 disunity	Distant	0.1689	26902
@@ -26938,7 +26938,7 @@ lapis	Distant	0.1688	26936
 magus	Distant	0.1688	26937
 butane	Distant	0.1688	26938
 centurion	Distant	0.1688	26939
-disconsolate	Distant	0.1688	26940
+disconsolate	Distant	0.1687	26940
 fib	Distant	0.1687	26941
 fracas	Distant	0.1687	26942
 minaret	Distant	0.1687	26943
@@ -27000,7 +27000,7 @@ coot	Distant	0.1685	26998
 dysentery	Distant	0.1685	26999
 entrails	Distant	0.1685	27000
 haematology	Distant	0.1685	27001
-hilarity	Distant	0.1685	27002
+hilarity	Distant	0.1684	27002
 humdrum	Distant	0.1684	27003
 nuptial	Distant	0.1684	27004
 plucky	Distant	0.1684	27005
@@ -27083,7 +27083,7 @@ asymptote	Distant	0.1681	27081
 bogeyman	Distant	0.1681	27082
 caliper	Distant	0.1681	27083
 chevalier	Distant	0.1681	27084
-coaxial	Distant	0.1681	27085
+coaxial	Distant	0.1680	27085
 disfavour	Distant	0.1680	27086
 epidural	Distant	0.1680	27087
 frontispiece	Distant	0.1680	27088
@@ -27208,7 +27208,7 @@ acerbic	Distant	0.1675	27206
 benighted	Distant	0.1675	27207
 bonsai	Distant	0.1675	27208
 boomerang	Distant	0.1675	27209
-casein	Distant	0.1675	27210
+casein	Distant	0.1674	27210
 codex	Distant	0.1674	27211
 comely	Distant	0.1674	27212
 credulity	Distant	0.1674	27213
@@ -27229,7 +27229,7 @@ ventriloquist	Distant	0.1674	27227
 vibrato	Distant	0.1674	27228
 weft	Distant	0.1674	27229
 bacteriological	Distant	0.1674	27230
-coitus	Distant	0.1674	27231
+coitus	Distant	0.1673	27231
 endorphin	Distant	0.1673	27232
 gnostic	Distant	0.1673	27233
 histopathology	Distant	0.1673	27234
@@ -27250,7 +27250,7 @@ polka	Distant	0.1673	27248
 prophylaxis	Distant	0.1673	27249
 tweezers	Distant	0.1673	27250
 zany	Distant	0.1673	27251
-allrounder	Distant	0.1673	27252
+allrounder	Distant	0.1672	27252
 auger	Distant	0.1672	27253
 bungee	Distant	0.1672	27254
 colossus	Distant	0.1672	27255
@@ -27271,7 +27271,7 @@ bevvy	Distant	0.1672	27269
 coif	Distant	0.1672	27270
 daredevil	Distant	0.1672	27271
 fetid	Distant	0.1672	27272
-gangplank	Distant	0.1672	27273
+gangplank	Distant	0.1671	27273
 hex	Distant	0.1671	27274
 humpback	Distant	0.1671	27275
 ibis	Distant	0.1671	27276
@@ -27292,7 +27292,7 @@ droll	Distant	0.1671	27290
 esplanade	Distant	0.1671	27291
 faux	Distant	0.1671	27292
 gestalt	Distant	0.1671	27293
-junket	Distant	0.1671	27294
+junket	Distant	0.1670	27294
 lambasted	Distant	0.1670	27295
 lupus	Distant	0.1670	27296
 neuropsychology	Distant	0.1670	27297
@@ -27313,7 +27313,7 @@ pharynx	Distant	0.1670	27311
 phosphorescent	Distant	0.1670	27312
 shimmy	Distant	0.1670	27313
 vermilion	Distant	0.1670	27314
-beefed	Distant	0.1670	27315
+beefed	Distant	0.1669	27315
 beholden	Distant	0.1669	27316
 calypso	Distant	0.1669	27317
 cashew	Distant	0.1669	27318
@@ -27440,7 +27440,7 @@ patristic	Distant	0.1664	27438
 piggyback	Distant	0.1664	27439
 pleb	Distant	0.1664	27440
 polygynous	Distant	0.1664	27441
-postmortem	Distant	0.1664	27442
+postmortem	Distant	0.1663	27442
 progesterone	Distant	0.1663	27443
 spectroscope	Distant	0.1663	27444
 triangulated	Distant	0.1663	27445
@@ -27525,7 +27525,7 @@ biofeedback	Distant	0.1660	27523
 novella	Distant	0.1660	27524
 overgrazing	Distant	0.1660	27525
 turmeric	Distant	0.1660	27526
-alimony	Distant	0.1660	27527
+alimony	Distant	0.1659	27527
 amputee	Distant	0.1659	27528
 contagion	Distant	0.1659	27529
 cryptosporidiosis	Distant	0.1659	27530
@@ -27675,7 +27675,7 @@ bluegrass	Distant	0.1653	27673
 burnout	Distant	0.1653	27674
 demagogic	Distant	0.1653	27675
 incorporeal	Distant	0.1653	27676
-moniker	Distant	0.1653	27677
+moniker	Distant	0.1652	27677
 philanderer	Distant	0.1652	27678
 caliphate	Distant	0.1652	27679
 effeminacy	Distant	0.1652	27680
@@ -27783,7 +27783,7 @@ churlishness	Distant	0.1648	27781
 clubfeet	Distant	0.1648	27782
 decaf	Distant	0.1648	27783
 demagoguery	Distant	0.1648	27784
-ethnologist	Distant	0.1648	27785
+ethnologist	Distant	0.1647	27785
 gismo	Distant	0.1647	27786
 inebriation	Distant	0.1647	27787
 inveterately	Distant	0.1647	27788
@@ -27870,7 +27870,7 @@ bicuspid	Distant	0.1644	27868
 bootstrapped	Distant	0.1644	27869
 caffeinated	Distant	0.1644	27870
 callowness	Distant	0.1644	27871
-capaciously	Distant	0.1644	27872
+capaciously	Distant	0.1643	27872
 cathartically	Distant	0.1643	27873
 clubfooted	Distant	0.1643	27874
 decorousness	Distant	0.1643	27875
@@ -28001,7 +28001,7 @@ plebeianism	Distant	0.1638	27999
 pluckiness	Distant	0.1638	28000
 potability	Distant	0.1638	28001
 prefigurement	Distant	0.1638	28002
-proximateness	Distant	0.1638	28003
+proximateness	Distant	0.1637	28003
 pruriently	Distant	0.1637	28004
 pudginess	Distant	0.1637	28005
 pugnaciousness	Distant	0.1637	28006
@@ -28023,7 +28023,7 @@ torridity	Distant	0.1637	28021
 torridness	Distant	0.1637	28022
 trammeled	Distant	0.1637	28023
 trammeling	Distant	0.1637	28024
-transitively	Distant	0.1637	28025
+transitively	Distant	0.1636	28025
 transitiveness	Distant	0.1636	28026
 venally	Distant	0.1636	28027
 vitiator	Distant	0.1636	28028
@@ -28045,7 +28045,7 @@ preempt	Distant	0.1636	28043
 bream	Distant	0.1636	28044
 carboniferous	Distant	0.1636	28045
 franks	Distant	0.1636	28046
-yoghurt	Distant	0.1636	28047
+yoghurt	Distant	0.1635	28047
 expiry	Distant	0.1635	28048
 tanner	Distant	0.1635	28049
 testator	Distant	0.1635	28050
@@ -28067,7 +28067,7 @@ dotty	Distant	0.1635	28065
 aerobatic	Distant	0.1635	28066
 ruck	Distant	0.1635	28067
 daemon	Distant	0.1635	28068
-deprecate	Distant	0.1635	28069
+deprecate	Distant	0.1634	28069
 ohm	Distant	0.1634	28070
 draughtsman	Distant	0.1634	28071
 faire	Distant	0.1634	28072
@@ -28089,7 +28089,7 @@ hydra	Distant	0.1634	28087
 overleaf	Distant	0.1634	28088
 lancet	Distant	0.1634	28089
 phosphorylation	Distant	0.1634	28090
-aeon	Distant	0.1634	28091
+aeon	Distant	0.1633	28091
 phalangist	Distant	0.1633	28092
 gabble	Distant	0.1633	28093
 suss	Distant	0.1633	28094
@@ -28111,7 +28111,7 @@ curlew	Distant	0.1633	28109
 dowse	Distant	0.1633	28110
 misconceive	Distant	0.1633	28111
 curia	Distant	0.1633	28112
-gorse	Distant	0.1633	28113
+gorse	Distant	0.1632	28113
 antenatal	Distant	0.1632	28114
 comintern	Distant	0.1632	28115
 skittle	Distant	0.1632	28116
@@ -28244,7 +28244,7 @@ translocate	Distant	0.1627	28242
 gaiter	Distant	0.1627	28243
 tiff	Distant	0.1627	28244
 almshouse	Distant	0.1627	28245
-brigand	Distant	0.1627	28246
+brigand	Distant	0.1626	28246
 cabernet	Distant	0.1626	28247
 dressage	Distant	0.1626	28248
 bluebird	Distant	0.1626	28249
@@ -28311,7 +28311,7 @@ hoodwink	Distant	0.1624	28309
 pirouette	Distant	0.1624	28310
 wattle	Distant	0.1624	28311
 asic	Distant	0.1624	28312
-corsair	Distant	0.1624	28313
+corsair	Distant	0.1623	28313
 insuperable	Distant	0.1623	28314
 operetta	Distant	0.1623	28315
 raster	Distant	0.1623	28316
@@ -28378,7 +28378,7 @@ apoptosis	Distant	0.1621	28376
 calcify	Distant	0.1621	28377
 catacomb	Distant	0.1621	28378
 cuckold	Distant	0.1621	28379
-dolomite	Distant	0.1621	28380
+dolomite	Distant	0.1620	28380
 enzymatic	Distant	0.1620	28381
 fop	Distant	0.1620	28382
 fulsome	Distant	0.1620	28383
@@ -28423,7 +28423,7 @@ quatrain	Distant	0.1619	28421
 thespian	Distant	0.1619	28422
 twill	Distant	0.1619	28423
 vulva	Distant	0.1619	28424
-aggrandize	Distant	0.1619	28425
+aggrandize	Distant	0.1618	28425
 centipede	Distant	0.1618	28426
 elide	Distant	0.1618	28427
 gentility	Distant	0.1618	28428
@@ -28468,7 +28468,7 @@ octane	Distant	0.1617	28466
 phage	Distant	0.1617	28467
 pinto	Distant	0.1617	28468
 pleura	Distant	0.1617	28469
-privateer	Distant	0.1617	28470
+privateer	Distant	0.1616	28470
 refractive	Distant	0.1616	28471
 rollercoaster	Distant	0.1616	28472
 vintner	Distant	0.1616	28473
@@ -28513,7 +28513,7 @@ supercilious	Distant	0.1615	28511
 triplicate	Distant	0.1615	28512
 amniocentesis	Distant	0.1615	28513
 astringent	Distant	0.1615	28514
-curio	Distant	0.1615	28515
+curio	Distant	0.1614	28515
 disbar	Distant	0.1614	28516
 distemper	Distant	0.1614	28517
 gallium	Distant	0.1614	28518
@@ -28581,7 +28581,7 @@ lymphatic	Distant	0.1612	28579
 microgram	Distant	0.1612	28580
 outbid	Distant	0.1612	28581
 penury	Distant	0.1612	28582
-protease	Distant	0.1612	28583
+protease	Distant	0.1611	28583
 scotched	Distant	0.1611	28584
 syllogism	Distant	0.1611	28585
 thalidomide	Distant	0.1611	28586
@@ -28672,7 +28672,7 @@ occipital	Distant	0.1608	28670
 perfidious	Distant	0.1608	28671
 pliant	Distant	0.1608	28672
 sharia	Distant	0.1608	28673
-solicitude	Distant	0.1608	28674
+solicitude	Distant	0.1607	28674
 spendthrift	Distant	0.1607	28675
 subjunctive	Distant	0.1607	28676
 angora	Distant	0.1607	28677
@@ -28971,7 +28971,7 @@ apoplexy	Distant	0.1595	28969
 pinball	Distant	0.1595	28970
 ragbag	Distant	0.1595	28971
 softy	Distant	0.1595	28972
-topiary	Distant	0.1595	28973
+topiary	Distant	0.1594	28973
 tweet	Distant	0.1594	28974
 adrenal	Distant	0.1594	28975
 benthic	Distant	0.1594	28976
@@ -28994,7 +28994,7 @@ cytological	Distant	0.1594	28992
 endive	Distant	0.1594	28993
 infamy	Distant	0.1594	28994
 intramural	Distant	0.1594	28995
-multitasking	Distant	0.1594	28996
+multitasking	Distant	0.1593	28996
 pantheist	Distant	0.1593	28997
 scientology	Distant	0.1593	28998
 byelection	Distant	0.1593	28999
@@ -29064,7 +29064,7 @@ pretzel	Distant	0.1591	29062
 prosthetics	Distant	0.1591	29063
 scotches	Distant	0.1591	29064
 apnea	Distant	0.1591	29065
-aquaculture	Distant	0.1591	29066
+aquaculture	Distant	0.1590	29066
 contractility	Distant	0.1590	29067
 cortisol	Distant	0.1590	29068
 critter	Distant	0.1590	29069
@@ -29134,7 +29134,7 @@ mujahidin	Distant	0.1588	29132
 unctuously	Distant	0.1588	29133
 volubly	Distant	0.1588	29134
 vulval	Distant	0.1588	29135
-wildcard	Distant	0.1588	29136
+wildcard	Distant	0.1587	29136
 anomic	Distant	0.1587	29137
 azimuthal	Distant	0.1587	29138
 brigandage	Distant	0.1587	29139
@@ -29275,7 +29275,7 @@ bedeck	Distant	0.1582	29273
 carjacker	Distant	0.1582	29274
 dissembler	Distant	0.1582	29275
 encephalitic	Distant	0.1582	29276
-exoskeletal	Distant	0.1582	29277
+exoskeletal	Distant	0.1581	29277
 flaccidity	Distant	0.1581	29278
 geckoes	Distant	0.1581	29279
 hassidic	Distant	0.1581	29280
@@ -29417,7 +29417,7 @@ limpidness	Distant	0.1576	29415
 louvered	Distant	0.1576	29416
 meritoriously	Distant	0.1576	29417
 meritoriousness	Distant	0.1576	29418
-morainal	Distant	0.1576	29419
+morainal	Distant	0.1575	29419
 multifariously	Distant	0.1575	29420
 multileveled	Distant	0.1575	29421
 mutably	Distant	0.1575	29422
@@ -29753,7 +29753,7 @@ vegetate	Distant	0.1562	29751
 atropine	Distant	0.1562	29752
 bamboozle	Distant	0.1562	29753
 brie	Distant	0.1562	29754
-cruciform	Distant	0.1562	29755
+cruciform	Distant	0.1561	29755
 homonym	Distant	0.1561	29756
 peloponnesian	Distant	0.1561	29757
 quaff	Distant	0.1561	29758
@@ -29899,7 +29899,7 @@ pec	Distant	0.1556	29897
 pidgin	Distant	0.1556	29898
 pintail	Distant	0.1556	29899
 sacristy	Distant	0.1556	29900
-troposphere	Distant	0.1556	29901
+troposphere	Distant	0.1555	29901
 aminoglycoside	Distant	0.1555	29902
 awl	Distant	0.1555	29903
 bookworm	Distant	0.1555	29904
@@ -29997,7 +29997,7 @@ millenarian	Distant	0.1552	29995
 ostinato	Distant	0.1552	29996
 overcapacity	Distant	0.1552	29997
 perchance	Distant	0.1552	29998
-phrenology	Distant	0.1552	29999
+phrenology	Distant	0.1551	29999
 poultice	Distant	0.1551	30000
 sacral	Distant	0.1551	30001
 speculum	Distant	0.1551	30002
@@ -30046,7 +30046,7 @@ parley	Distant	0.1550	30044
 proboscis	Distant	0.1550	30045
 teleworking	Distant	0.1550	30046
 tinfoil	Distant	0.1550	30047
-bottlenose	Distant	0.1550	30048
+bottlenose	Distant	0.1549	30048
 cilia	Distant	0.1549	30049
 copter	Distant	0.1549	30050
 corpulent	Distant	0.1549	30051
@@ -30120,7 +30120,7 @@ corsage	Distant	0.1547	30118
 corticosteroid	Distant	0.1547	30119
 cyclotron	Distant	0.1547	30120
 equably	Distant	0.1547	30121
-extirpate	Distant	0.1547	30122
+extirpate	Distant	0.1546	30122
 flagellation	Distant	0.1546	30123
 frump	Distant	0.1546	30124
 kaolin	Distant	0.1546	30125
@@ -30244,7 +30244,7 @@ pizzeria	Distant	0.1542	30242
 seaworthy	Distant	0.1542	30243
 simian	Distant	0.1542	30244
 sociobiologist	Distant	0.1542	30245
-speciate	Distant	0.1542	30246
+speciate	Distant	0.1541	30246
 speciation	Distant	0.1541	30247
 umbrage	Distant	0.1541	30248
 verbiage	Distant	0.1541	30249
@@ -30269,7 +30269,7 @@ abed	Distant	0.1541	30267
 anglicize	Distant	0.1541	30268
 carded	Distant	0.1541	30269
 corns	Distant	0.1541	30270
-huckleberry	Distant	0.1541	30271
+huckleberry	Distant	0.1540	30271
 iridium	Distant	0.1540	30272
 isometric	Distant	0.1540	30273
 kilter	Distant	0.1540	30274
@@ -30294,7 +30294,7 @@ forsythia	Distant	0.1540	30292
 gridiron	Distant	0.1540	30293
 homeostasis	Distant	0.1540	30294
 hydrodynamic	Distant	0.1540	30295
-insole	Distant	0.1540	30296
+insole	Distant	0.1539	30296
 mishmash	Distant	0.1539	30297
 plenitude	Distant	0.1539	30298
 polycarbonate	Distant	0.1539	30299
@@ -30344,7 +30344,7 @@ penile	Distant	0.1538	30342
 rhinitis	Distant	0.1538	30343
 segue	Distant	0.1538	30344
 seines	Distant	0.1538	30345
-stromal	Distant	0.1538	30346
+stromal	Distant	0.1537	30346
 synchrony	Distant	0.1537	30347
 trilateral	Distant	0.1537	30348
 wacko	Distant	0.1537	30349
@@ -30369,7 +30369,7 @@ chiasm	Distant	0.1537	30367
 commingle	Distant	0.1537	30368
 diaphanous	Distant	0.1537	30369
 gratin	Distant	0.1537	30370
-ilex	Distant	0.1537	30371
+ilex	Distant	0.1536	30371
 pulitzer	Distant	0.1536	30372
 sequelae	Distant	0.1536	30373
 sophist	Distant	0.1536	30374
@@ -30394,7 +30394,7 @@ compote	Distant	0.1536	30392
 contestation	Distant	0.1536	30393
 dengue	Distant	0.1536	30394
 endocrinologist	Distant	0.1536	30395
-factorisation	Distant	0.1536	30396
+factorisation	Distant	0.1535	30396
 fissile	Distant	0.1535	30397
 glob	Distant	0.1535	30398
 grouch	Distant	0.1535	30399
@@ -30419,7 +30419,7 @@ remiss	Distant	0.1535	30417
 seiner	Distant	0.1535	30418
 suppuration	Distant	0.1535	30419
 toddy	Distant	0.1535	30420
-transboundary	Distant	0.1535	30421
+transboundary	Distant	0.1534	30421
 turnabout	Distant	0.1534	30422
 valorize	Distant	0.1534	30423
 vituperation	Distant	0.1534	30424
@@ -30672,7 +30672,7 @@ punctiliousness	Distant	0.1525	30670
 rockfish	Distant	0.1525	30671
 snarky	Distant	0.1525	30672
 spectrographic	Distant	0.1525	30673
-suety	Distant	0.1525	30674
+suety	Distant	0.1524	30674
 androgenic	Distant	0.1524	30675
 biannually	Distant	0.1524	30676
 commodiousness	Distant	0.1524	30677
@@ -30723,7 +30723,7 @@ biosafety	Distant	0.1523	30721
 blabber	Distant	0.1523	30722
 blandish	Distant	0.1523	30723
 bobbysoxer	Distant	0.1523	30724
-bongoes	Distant	0.1523	30725
+bongoes	Distant	0.1522	30725
 cognoscente	Distant	0.1522	30726
 collimation	Distant	0.1522	30727
 combinatorially	Distant	0.1522	30728
@@ -30877,7 +30877,7 @@ tractably	Distant	0.1517	30875
 tweens	Distant	0.1517	30876
 upbraider	Distant	0.1517	30877
 uppityness	Distant	0.1517	30878
-urethan	Distant	0.1517	30879
+urethan	Distant	0.1516	30879
 valorizes	Distant	0.1516	30880
 vapidness	Distant	0.1516	30881
 varicolored	Distant	0.1516	30882
@@ -31006,7 +31006,7 @@ stoat	Distant	0.1512	31004
 villus	Distant	0.1512	31005
 maladministration	Distant	0.1512	31006
 enamoured	Distant	0.1512	31007
-garrot	Distant	0.1512	31008
+garrot	Distant	0.1511	31008
 leukotriene	Distant	0.1511	31009
 monolayer	Distant	0.1511	31010
 plaice	Distant	0.1511	31011
@@ -31032,7 +31032,7 @@ enfant	Distant	0.1511	31030
 neoplasia	Distant	0.1511	31031
 camber	Distant	0.1511	31032
 catarrh	Distant	0.1511	31033
-liege	Distant	0.1511	31034
+liege	Distant	0.1510	31034
 dovecote	Distant	0.1510	31035
 ermine	Distant	0.1510	31036
 lysis	Distant	0.1510	31037
@@ -31058,7 +31058,7 @@ wen	Distant	0.1510	31056
 bronchodilator	Distant	0.1510	31057
 fitch	Distant	0.1510	31058
 homogenates	Distant	0.1510	31059
-rescission	Distant	0.1510	31060
+rescission	Distant	0.1509	31060
 biotin	Distant	0.1509	31061
 causa	Distant	0.1509	31062
 paling	Distant	0.1509	31063
@@ -31084,7 +31084,7 @@ bidet	Distant	0.1509	31082
 codicil	Distant	0.1509	31083
 cytomegalovirus	Distant	0.1509	31084
 frogman	Distant	0.1509	31085
-rubberneck	Distant	0.1509	31086
+rubberneck	Distant	0.1508	31086
 spina	Distant	0.1508	31087
 venturi	Distant	0.1508	31088
 voce	Distant	0.1508	31089
@@ -31110,7 +31110,7 @@ polonium	Distant	0.1508	31108
 portmanteau	Distant	0.1508	31109
 betoken	Distant	0.1508	31110
 ketamine	Distant	0.1508	31111
-musique	Distant	0.1508	31112
+musique	Distant	0.1507	31112
 ricks	Distant	0.1507	31113
 tare	Distant	0.1507	31114
 ulema	Distant	0.1507	31115
@@ -31399,7 +31399,7 @@ chignon	Distant	0.1497	31397
 conspecific	Distant	0.1497	31398
 electroplate	Distant	0.1497	31399
 fundus	Distant	0.1497	31400
-gizzard	Distant	0.1497	31401
+gizzard	Distant	0.1496	31401
 lettre	Distant	0.1496	31402
 meiosis	Distant	0.1496	31403
 nigra	Distant	0.1496	31404
@@ -31452,7 +31452,7 @@ trattoria	Distant	0.1495	31450
 vagal	Distant	0.1495	31451
 vegetal	Distant	0.1495	31452
 betwixt	Distant	0.1495	31453
-blackball	Distant	0.1495	31454
+blackball	Distant	0.1494	31454
 canker	Distant	0.1494	31455
 coheir	Distant	0.1494	31456
 contiguity	Distant	0.1494	31457
@@ -31612,7 +31612,7 @@ hearken	Distant	0.1489	31610
 idolater	Distant	0.1489	31611
 ionosphere	Distant	0.1489	31612
 masseuse	Distant	0.1489	31613
-overweening	Distant	0.1489	31614
+overweening	Distant	0.1488	31614
 puerile	Distant	0.1488	31615
 pyrrhic	Distant	0.1488	31616
 rickets	Distant	0.1488	31617
@@ -31936,7 +31936,7 @@ fundi	Distant	0.1477	31934
 gunk	Distant	0.1477	31935
 lability	Distant	0.1477	31936
 numismatist	Distant	0.1477	31937
-persimmon	Distant	0.1477	31938
+persimmon	Distant	0.1476	31938
 peyote	Distant	0.1476	31939
 armoire	Distant	0.1476	31940
 berm	Distant	0.1476	31941
@@ -32045,7 +32045,7 @@ sephardim	Distant	0.1473	32043
 sulfide	Distant	0.1473	32044
 tattler	Distant	0.1473	32045
 telecommuting	Distant	0.1473	32046
-toreador	Distant	0.1473	32047
+toreador	Distant	0.1472	32047
 africanised	Distant	0.1472	32048
 alimentation	Distant	0.1472	32049
 anthropocentrism	Distant	0.1472	32050
@@ -32100,7 +32100,7 @@ quranic	Distant	0.1471	32098
 raffishly	Distant	0.1471	32099
 rancorously	Distant	0.1471	32100
 reticula	Distant	0.1471	32101
-sallying	Distant	0.1471	32102
+sallying	Distant	0.1470	32102
 stagflationary	Distant	0.1470	32103
 subornation	Distant	0.1470	32104
 suborner	Distant	0.1470	32105
@@ -32155,7 +32155,7 @@ concordantly	Distant	0.1469	32153
 corbeled	Distant	0.1469	32154
 corbeling	Distant	0.1469	32155
 cumquat	Distant	0.1469	32156
-cyanobacterial	Distant	0.1469	32157
+cyanobacterial	Distant	0.1468	32157
 delists	Distant	0.1468	32158
 denationalise	Distant	0.1468	32159
 diatonically	Distant	0.1468	32160
@@ -32210,7 +32210,7 @@ nubility	Distant	0.1467	32208
 numerologist	Distant	0.1467	32209
 numismatically	Distant	0.1467	32210
 numismatology	Distant	0.1467	32211
-onomatopoeical	Distant	0.1467	32212
+onomatopoeical	Distant	0.1466	32212
 onomatopoetic	Distant	0.1466	32213
 onomatopoetical	Distant	0.1466	32214
 orthodontia	Distant	0.1466	32215
@@ -32293,7 +32293,7 @@ forint	Distant	0.1464	32291
 microlight	Distant	0.1464	32292
 pipework	Distant	0.1464	32293
 snog	Distant	0.1464	32294
-byre	Distant	0.1464	32295
+byre	Distant	0.1463	32295
 lacklustre	Distant	0.1463	32296
 charolais	Distant	0.1463	32297
 interleukin	Distant	0.1463	32298
@@ -32657,7 +32657,7 @@ humoral	Distant	0.1451	32655
 hydrofoil	Distant	0.1451	32656
 polytheism	Distant	0.1451	32657
 preceptor	Distant	0.1451	32658
-pustule	Distant	0.1451	32659
+pustule	Distant	0.1450	32659
 sotto	Distant	0.1450	32660
 superscript	Distant	0.1450	32661
 zona	Distant	0.1450	32662
@@ -32742,7 +32742,7 @@ reveille	Distant	0.1448	32740
 transcriptase	Distant	0.1448	32741
 troglodyte	Distant	0.1448	32742
 verily	Distant	0.1448	32743
-antinomian	Distant	0.1448	32744
+antinomian	Distant	0.1447	32744
 claptrap	Distant	0.1447	32745
 epicopal	Distant	0.1447	32746
 episcopacy	Distant	0.1447	32747
@@ -32913,7 +32913,7 @@ ululate	Distant	0.1442	32911
 vanadium	Distant	0.1442	32912
 woodruff	Distant	0.1442	32913
 zither	Distant	0.1442	32914
-asbestosis	Distant	0.1442	32915
+asbestosis	Distant	0.1441	32915
 borage	Distant	0.1441	32916
 cabbalist	Distant	0.1441	32917
 chervil	Distant	0.1441	32918
@@ -32999,7 +32999,7 @@ agglutination	Distant	0.1439	32997
 alopecia	Distant	0.1439	32998
 arteriosclerosis	Distant	0.1439	32999
 bacchanal	Distant	0.1439	33000
-barf	Distant	0.1439	33001
+barf	Distant	0.1438	33001
 bilk	Distant	0.1438	33002
 biophysics	Distant	0.1438	33003
 bunion	Distant	0.1438	33004
@@ -33347,7 +33347,7 @@ arteriosclerotic	Distant	0.1427	33345
 bacchanalia	Distant	0.1427	33346
 bioluminescent	Distant	0.1427	33347
 deistic	Distant	0.1427	33348
-dixieland	Distant	0.1427	33349
+dixieland	Distant	0.1426	33349
 dogeared	Distant	0.1426	33350
 dolor	Distant	0.1426	33351
 dolour	Distant	0.1426	33352
@@ -33612,7 +33612,7 @@ deme	Distant	0.1418	33610
 fundic	Distant	0.1418	33611
 cyclase	Distant	0.1418	33612
 petrography	Distant	0.1418	33613
-obiter	Distant	0.1418	33614
+obiter	Distant	0.1417	33614
 syllabub	Distant	0.1417	33615
 tearaway	Distant	0.1417	33616
 saltire	Distant	0.1417	33617
@@ -33701,7 +33701,7 @@ pillion	Distant	0.1415	33699
 redstart	Distant	0.1415	33700
 spinney	Distant	0.1415	33701
 swingeing	Distant	0.1415	33702
-actus	Distant	0.1415	33703
+actus	Distant	0.1414	33703
 dementing	Distant	0.1414	33704
 rockery	Distant	0.1414	33705
 skint	Distant	0.1414	33706
@@ -34001,7 +34001,7 @@ relict	Distant	0.1405	33999
 salix	Distant	0.1405	34000
 sextuplet	Distant	0.1405	34001
 tablature	Distant	0.1405	34002
-tubercle	Distant	0.1405	34003
+tubercle	Distant	0.1404	34003
 verts	Distant	0.1404	34004
 ampersand	Distant	0.1404	34005
 animatronic	Distant	0.1404	34006
@@ -34122,7 +34122,7 @@ cartouche	Distant	0.1401	34120
 cloverleaf	Distant	0.1401	34121
 compleat	Distant	0.1401	34122
 cubit	Distant	0.1401	34123
-deoxyribonucleic	Distant	0.1401	34124
+deoxyribonucleic	Distant	0.1400	34124
 digoxin	Distant	0.1400	34125
 electroencephalograph	Distant	0.1400	34126
 fustian	Distant	0.1400	34127
@@ -34183,7 +34183,7 @@ metaphysician	Distant	0.1399	34181
 moa	Distant	0.1399	34182
 multispectral	Distant	0.1399	34183
 noisome	Distant	0.1399	34184
-onrush	Distant	0.1399	34185
+onrush	Distant	0.1398	34185
 phat	Distant	0.1398	34186
 retrogressive	Distant	0.1398	34187
 sagacious	Distant	0.1398	34188
@@ -34244,7 +34244,7 @@ ibex	Distant	0.1397	34242
 louche	Distant	0.1397	34243
 ludic	Distant	0.1397	34244
 macrobiotic	Distant	0.1397	34245
-macromolecular	Distant	0.1397	34246
+macromolecular	Distant	0.1396	34246
 onside	Distant	0.1396	34247
 palindrome	Distant	0.1396	34248
 peccary	Distant	0.1396	34249
@@ -34336,7 +34336,7 @@ ingrate	Distant	0.1394	34334
 isoniazid	Distant	0.1394	34335
 isostasy	Distant	0.1394	34336
 jitterbug	Distant	0.1394	34337
-lectionary	Distant	0.1394	34338
+lectionary	Distant	0.1393	34338
 liquefaction	Distant	0.1393	34339
 meniscus	Distant	0.1393	34340
 mesothelioma	Distant	0.1393	34341
@@ -34521,7 +34521,7 @@ boogey	Distant	0.1388	34519
 calla	Distant	0.1388	34520
 centilitre	Distant	0.1388	34521
 crabapple	Distant	0.1388	34522
-densitometric	Distant	0.1388	34523
+densitometric	Distant	0.1387	34523
 dotterel	Distant	0.1387	34524
 fettuccine	Distant	0.1387	34525
 fingerling	Distant	0.1387	34526
@@ -34552,7 +34552,7 @@ annuitant	Distant	0.1387	34550
 arroyo	Distant	0.1387	34551
 aspartic	Distant	0.1387	34552
 bassinet	Distant	0.1387	34553
-botulinum	Distant	0.1387	34554
+botulinum	Distant	0.1386	34554
 calabash	Distant	0.1386	34555
 cockeyed	Distant	0.1386	34556
 cordwood	Distant	0.1386	34557
@@ -34708,7 +34708,7 @@ campy	Distant	0.1382	34706
 contemner	Distant	0.1382	34707
 cryonics	Distant	0.1382	34708
 currycomb	Distant	0.1382	34709
-derringer	Distant	0.1382	34710
+derringer	Distant	0.1381	34710
 fervidly	Distant	0.1381	34711
 fustily	Distant	0.1381	34712
 gneissic	Distant	0.1381	34713
@@ -34802,7 +34802,7 @@ granola	Distant	0.1379	34800
 haggadic	Distant	0.1379	34801
 harrumphs	Distant	0.1379	34802
 hemophiliac	Distant	0.1379	34803
-homeostatically	Distant	0.1379	34804
+homeostatically	Distant	0.1378	34804
 hydrocephaloid	Distant	0.1378	34805
 hydrocephalous	Distant	0.1378	34806
 jitterbugged	Distant	0.1378	34807
@@ -34865,7 +34865,7 @@ tantrist	Distant	0.1377	34863
 telenovela	Distant	0.1377	34864
 telenovelas	Distant	0.1377	34865
 tromped	Distant	0.1377	34866
-tromps	Distant	0.1377	34867
+tromps	Distant	0.1376	34867
 umbral	Distant	0.1376	34868
 unwontedness	Distant	0.1376	34869
 url	Distant	0.1376	34870
@@ -34928,7 +34928,7 @@ transferase	Distant	0.1375	34926
 plonker	Distant	0.1375	34927
 accompli	Distant	0.1375	34928
 ordinand	Distant	0.1375	34929
-doddle	Distant	0.1375	34930
+doddle	Distant	0.1374	34930
 maltster	Distant	0.1374	34931
 breathalyse	Distant	0.1374	34932
 caesium	Distant	0.1374	34933
@@ -35023,7 +35023,7 @@ paternoster	Distant	0.1372	35021
 pessary	Distant	0.1372	35022
 tailplane	Distant	0.1372	35023
 anis	Distant	0.1372	35024
-foliate	Distant	0.1372	35025
+foliate	Distant	0.1371	35025
 lurex	Distant	0.1371	35026
 mountie	Distant	0.1371	35027
 proline	Distant	0.1371	35028
@@ -35343,7 +35343,7 @@ durian	Distant	0.1362	35341
 floribunda	Distant	0.1362	35342
 freebooter	Distant	0.1362	35343
 gilder	Distant	0.1362	35344
-graviton	Distant	0.1362	35345
+graviton	Distant	0.1361	35345
 grenadine	Distant	0.1361	35346
 guar	Distant	0.1361	35347
 hornbeam	Distant	0.1361	35348
@@ -35440,7 +35440,7 @@ phenobarbital	Distant	0.1359	35438
 physiography	Distant	0.1359	35439
 pupal	Distant	0.1359	35440
 quoi	Distant	0.1359	35441
-reticule	Distant	0.1359	35442
+reticule	Distant	0.1358	35442
 rubato	Distant	0.1358	35443
 supercontinent	Distant	0.1358	35444
 tachyon	Distant	0.1358	35445
@@ -35635,7 +35635,7 @@ psychophysiological	Distant	0.1353	35633
 samizdat	Distant	0.1353	35634
 succubus	Distant	0.1353	35635
 tootsie	Distant	0.1353	35636
-trebuchet	Distant	0.1353	35637
+trebuchet	Distant	0.1352	35637
 tribology	Distant	0.1352	35638
 vasoconstrictor	Distant	0.1352	35639
 vinca	Distant	0.1352	35640
@@ -35832,7 +35832,7 @@ ganache	Distant	0.1347	35830
 geode	Distant	0.1347	35831
 gonzo	Distant	0.1347	35832
 griot	Distant	0.1347	35833
-hooey	Distant	0.1347	35834
+hooey	Distant	0.1346	35834
 hyoid	Distant	0.1346	35835
 ideographic	Distant	0.1346	35836
 lepidopterous	Distant	0.1346	35837
@@ -35865,7 +35865,7 @@ demersal	Distant	0.1346	35863
 ditz	Distant	0.1346	35864
 dubbin	Distant	0.1346	35865
 epistaxis	Distant	0.1346	35866
-eustachian	Distant	0.1346	35867
+eustachian	Distant	0.1345	35867
 filarial	Distant	0.1345	35868
 gigahertz	Distant	0.1345	35869
 graphologist	Distant	0.1345	35870
@@ -36031,7 +36031,7 @@ coenzymatically	Distant	0.1341	36029
 courante	Distant	0.1341	36030
 crankbait	Distant	0.1341	36031
 curari	Distant	0.1341	36032
-cuspid	Distant	0.1341	36033
+cuspid	Distant	0.1340	36033
 darkle	Distant	0.1340	36034
 depressurise	Distant	0.1340	36035
 depressurization	Distant	0.1340	36036
@@ -36131,7 +36131,7 @@ tootler	Distant	0.1338	36129
 tranships	Distant	0.1338	36130
 tribologist	Distant	0.1338	36131
 venturesomeness	Distant	0.1338	36132
-vibraphonist	Distant	0.1338	36133
+vibraphonist	Distant	0.1337	36133
 videographer	Distant	0.1337	36134
 videography	Distant	0.1337	36135
 vitrifiable	Distant	0.1337	36136
@@ -36198,7 +36198,7 @@ parlement	Distant	0.1336	36196
 recusant	Distant	0.1336	36197
 splodge	Distant	0.1336	36198
 transworld	Distant	0.1336	36199
-tubifex	Distant	0.1336	36200
+tubifex	Distant	0.1335	36200
 chicane	Distant	0.1335	36201
 axil	Distant	0.1335	36202
 cento	Distant	0.1335	36203
@@ -36299,7 +36299,7 @@ reprographics	Distant	0.1333	36297
 roister	Distant	0.1333	36298
 twigged	Distant	0.1333	36299
 alpina	Distant	0.1333	36300
-cahier	Distant	0.1333	36301
+cahier	Distant	0.1332	36301
 cella	Distant	0.1332	36302
 halite	Distant	0.1332	36303
 interdigitate	Distant	0.1332	36304
@@ -36639,7 +36639,7 @@ centroid	Distant	0.1323	36637
 chocoholic	Distant	0.1323	36638
 coruscate	Distant	0.1323	36639
 cyanosis	Distant	0.1323	36640
-diathermy	Distant	0.1323	36641
+diathermy	Distant	0.1322	36641
 episiotomy	Distant	0.1322	36642
 federative	Distant	0.1322	36643
 indurate	Distant	0.1322	36644
@@ -36742,7 +36742,7 @@ borate	Distant	0.1320	36740
 braze	Distant	0.1320	36741
 butadiene	Distant	0.1320	36742
 caul	Distant	0.1320	36743
-cuirass	Distant	0.1320	36744
+cuirass	Distant	0.1319	36744
 dago	Distant	0.1319	36745
 drogue	Distant	0.1319	36746
 dromedary	Distant	0.1319	36747
@@ -36880,7 +36880,7 @@ gooseflesh	Distant	0.1316	36878
 horological	Distant	0.1316	36879
 hyperparathyroidism	Distant	0.1316	36880
 kazoo	Distant	0.1316	36881
-laager	Distant	0.1316	36882
+laager	Distant	0.1315	36882
 malapropism	Distant	0.1315	36883
 momenta	Distant	0.1315	36884
 naltrexone	Distant	0.1315	36885
@@ -36984,7 +36984,7 @@ acupressure	Distant	0.1313	36982
 ampullae	Distant	0.1313	36983
 ballsy	Distant	0.1313	36984
 barberry	Distant	0.1313	36985
-beignet	Distant	0.1313	36986
+beignet	Distant	0.1312	36986
 cavitation	Distant	0.1312	36987
 ceviche	Distant	0.1312	36988
 chromosphere	Distant	0.1312	36989
@@ -37019,7 +37019,7 @@ syllabary	Distant	0.1312	37017
 tatting	Distant	0.1312	37018
 tragicomic	Distant	0.1312	37019
 transoceanic	Distant	0.1312	37020
-ummah	Distant	0.1312	37021
+ummah	Distant	0.1311	37021
 veep	Distant	0.1311	37022
 acidophilus	Distant	0.1311	37023
 aleph	Distant	0.1311	37024
@@ -37194,7 +37194,7 @@ ranchero	Distant	0.1307	37192
 rhinoplasty	Distant	0.1307	37193
 rigatoni	Distant	0.1307	37194
 sanitarium	Distant	0.1307	37195
-shuffleboard	Distant	0.1307	37196
+shuffleboard	Distant	0.1306	37196
 sphenoid	Distant	0.1306	37197
 stela	Distant	0.1306	37198
 stereophonically	Distant	0.1306	37199
@@ -37229,7 +37229,7 @@ dysphoric	Distant	0.1306	37227
 ectodermic	Distant	0.1306	37228
 educible	Distant	0.1306	37229
 effulgently	Distant	0.1306	37230
-escheating	Distant	0.1306	37231
+escheating	Distant	0.1305	37231
 euphonic	Distant	0.1305	37232
 euphonically	Distant	0.1305	37233
 exciton	Distant	0.1305	37234
@@ -37335,7 +37335,7 @@ tocotrienol	Distant	0.1303	37333
 tocotrienols	Distant	0.1303	37334
 truckler	Distant	0.1303	37335
 wuss	Distant	0.1303	37336
-wussy	Distant	0.1303	37337
+wussy	Distant	0.1302	37337
 socio	Distant	0.1302	37338
 jurassic	Distant	0.1302	37339
 fusilier	Distant	0.1302	37340
@@ -37548,7 +37548,7 @@ dragoman	Distant	0.1297	37546
 duckboard	Distant	0.1297	37547
 elastoplast	Distant	0.1297	37548
 markka	Distant	0.1297	37549
-matin	Distant	0.1297	37550
+matin	Distant	0.1296	37550
 niello	Distant	0.1296	37551
 pastille	Distant	0.1296	37552
 skinful	Distant	0.1296	37553
@@ -37908,7 +37908,7 @@ levator	Distant	0.1287	37906
 logwood	Distant	0.1287	37907
 loti	Distant	0.1287	37908
 lycee	Distant	0.1287	37909
-mamluk	Distant	0.1287	37910
+mamluk	Distant	0.1286	37910
 metacarpal	Distant	0.1286	37911
 milfoil	Distant	0.1286	37912
 multiform	Distant	0.1286	37913
@@ -38017,7 +38017,7 @@ lepidopterist	Distant	0.1284	38015
 lepidoptery	Distant	0.1284	38016
 lilium	Distant	0.1284	38017
 linac	Distant	0.1284	38018
-malus	Distant	0.1284	38019
+malus	Distant	0.1283	38019
 megaparsec	Distant	0.1283	38020
 mesomorph	Distant	0.1283	38021
 mucilage	Distant	0.1283	38022
@@ -38090,7 +38090,7 @@ viceregal	Distant	0.1282	38088
 wapiti	Distant	0.1282	38089
 amnio	Distant	0.1282	38090
 anteroposterior	Distant	0.1282	38091
-antiphony	Distant	0.1282	38092
+antiphony	Distant	0.1281	38092
 arteriovenous	Distant	0.1281	38093
 befoul	Distant	0.1281	38094
 brachial	Distant	0.1281	38095
@@ -38200,7 +38200,7 @@ gabbroic	Distant	0.1279	38198
 gastroesophageal	Distant	0.1279	38199
 gimbals	Distant	0.1279	38200
 grampuses	Distant	0.1279	38201
-granita	Distant	0.1279	38202
+granita	Distant	0.1278	38202
 gungy	Distant	0.1278	38203
 hydrops	Distant	0.1278	38204
 hygroscopicity	Distant	0.1278	38205
@@ -38496,7 +38496,7 @@ velociraptor	Distant	0.1271	38494
 vender	Distant	0.1271	38495
 vinculums	Distant	0.1271	38496
 zeaxanthin	Distant	0.1271	38497
-ziti	Distant	0.1271	38498
+ziti	Distant	0.1270	38498
 gastro	Distant	0.1270	38499
 stilton	Distant	0.1270	38500
 cozen	Distant	0.1270	38501
@@ -38608,7 +38608,7 @@ muniment	Distant	0.1268	38606
 appose	Distant	0.1268	38607
 blag	Distant	0.1268	38608
 chur	Distant	0.1268	38609
-hydrochlorofluorocarbon	Distant	0.1268	38610
+hydrochlorofluorocarbon	Distant	0.1267	38610
 mandrake	Distant	0.1267	38611
 monocotyledon	Distant	0.1267	38612
 psephology	Distant	0.1267	38613
@@ -38683,7 +38683,7 @@ greyscale	Distant	0.1266	38681
 haugh	Distant	0.1266	38682
 isotype	Distant	0.1266	38683
 kanban	Distant	0.1266	38684
-luvvie	Distant	0.1266	38685
+luvvie	Distant	0.1265	38685
 mannose	Distant	0.1265	38686
 menhir	Distant	0.1265	38687
 naevus	Distant	0.1265	38688
@@ -38758,7 +38758,7 @@ swansdown	Distant	0.1264	38756
 vibrio	Distant	0.1264	38757
 arioso	Distant	0.1264	38758
 begrime	Distant	0.1264	38759
-betime	Distant	0.1264	38760
+betime	Distant	0.1263	38760
 biopolymer	Distant	0.1263	38761
 cardiograph	Distant	0.1263	38762
 catamite	Distant	0.1263	38763
@@ -39138,7 +39138,7 @@ steatite	Distant	0.1254	39136
 symphysis	Distant	0.1254	39137
 synodic	Distant	0.1254	39138
 tache	Distant	0.1254	39139
-tarsi	Distant	0.1254	39140
+tarsi	Distant	0.1253	39140
 threnody	Distant	0.1253	39141
 vulpine	Distant	0.1253	39142
 xerography	Distant	0.1253	39143
@@ -39253,7 +39253,7 @@ supercenter	Distant	0.1251	39251
 supernaturalism	Distant	0.1251	39252
 tonneau	Distant	0.1251	39253
 transdermal	Distant	0.1251	39254
-travois	Distant	0.1251	39255
+travois	Distant	0.1250	39255
 vervain	Distant	0.1250	39256
 vorticism	Distant	0.1250	39257
 weigela	Distant	0.1250	39258
@@ -39369,7 +39369,7 @@ madisonian	Distant	0.1248	39367
 maguey	Distant	0.1248	39368
 manzanita	Distant	0.1248	39369
 meningeal	Distant	0.1248	39370
-mestiza	Distant	0.1248	39371
+mestiza	Distant	0.1247	39371
 milquetoast	Distant	0.1247	39372
 neurodevelopment	Distant	0.1247	39373
 neurodevelopmental	Distant	0.1247	39374
@@ -39485,7 +39485,7 @@ hibachi	Distant	0.1245	39483
 hydrometric	Distant	0.1245	39484
 hyperacusis	Distant	0.1245	39485
 hypercalcemia	Distant	0.1245	39486
-immunochemically	Distant	0.1245	39487
+immunochemically	Distant	0.1244	39487
 immunochemist	Distant	0.1244	39488
 inseam	Distant	0.1244	39489
 isolette	Distant	0.1244	39490
@@ -39524,7 +39524,7 @@ otoliths	Distant	0.1244	39522
 ototopical	Distant	0.1244	39523
 oxycodone	Distant	0.1244	39524
 paramecia	Distant	0.1244	39525
-pashmina	Distant	0.1244	39526
+pashmina	Distant	0.1243	39526
 peacoat	Distant	0.1243	39527
 perilymph	Distant	0.1243	39528
 petrous	Distant	0.1243	39529
@@ -39563,7 +39563,7 @@ tamarack	Distant	0.1243	39561
 tangelo	Distant	0.1243	39562
 telemedicine	Distant	0.1243	39563
 temporalis	Distant	0.1243	39564
-ticktacktoe	Distant	0.1243	39565
+ticktacktoe	Distant	0.1242	39565
 tinhorn	Distant	0.1242	39566
 tintype	Distant	0.1242	39567
 translocal	Distant	0.1242	39568
@@ -39602,7 +39602,7 @@ legco	Distant	0.1242	39600
 laparoscopic	Distant	0.1242	39601
 calyx	Distant	0.1242	39602
 caudal	Distant	0.1242	39603
-sahel	Distant	0.1242	39604
+sahel	Distant	0.1241	39604
 buccal	Distant	0.1241	39605
 sputnik	Distant	0.1241	39606
 ionization	Distant	0.1241	39607
@@ -39759,7 +39759,7 @@ crataegus	Distant	0.1238	39757
 dekko	Distant	0.1238	39758
 detrain	Distant	0.1238	39759
 disoblige	Distant	0.1238	39760
-ecotype	Distant	0.1238	39761
+ecotype	Distant	0.1237	39761
 exequy	Distant	0.1237	39762
 firman	Distant	0.1237	39763
 gibbete	Distant	0.1237	39764
@@ -39996,7 +39996,7 @@ jocose	Distant	0.1232	39994
 kittle	Distant	0.1232	39995
 kummel	Distant	0.1232	39996
 laterite	Distant	0.1232	39997
-maloti	Distant	0.1232	39998
+maloti	Distant	0.1231	39998
 melodeon	Distant	0.1231	39999
 mercerised	Distant	0.1231	40000
 missense	Distant	0.1231	40001
@@ -40036,7 +40036,7 @@ tabun	Distant	0.1231	40034
 tolan	Distant	0.1231	40035
 topi	Distant	0.1231	40036
 tuffet	Distant	0.1231	40037
-viaticum	Distant	0.1231	40038
+viaticum	Distant	0.1230	40038
 volante	Distant	0.1230	40039
 zenana	Distant	0.1230	40040
 abettor	Distant	0.1230	40041
@@ -40276,7 +40276,7 @@ thous	Distant	0.1225	40274
 tonus	Distant	0.1225	40275
 vichyssoise	Distant	0.1225	40276
 wherewith	Distant	0.1225	40277
-xanthan	Distant	0.1225	40278
+xanthan	Distant	0.1224	40278
 aerostat	Distant	0.1224	40279
 allogeneic	Distant	0.1224	40280
 annatto	Distant	0.1224	40281
@@ -40316,7 +40316,7 @@ kvetch	Distant	0.1224	40314
 laparoscope	Distant	0.1224	40315
 lummox	Distant	0.1224	40316
 macarena	Distant	0.1224	40317
-marasmus	Distant	0.1224	40318
+marasmus	Distant	0.1223	40318
 mensuration	Distant	0.1223	40319
 mercerize	Distant	0.1223	40320
 meze	Distant	0.1223	40321
@@ -40397,7 +40397,7 @@ ionizers	Distant	0.1222	40395
 ipsative	Distant	0.1222	40396
 lagniappe	Distant	0.1222	40397
 laughingstock	Distant	0.1222	40398
-leukemic	Distant	0.1222	40399
+leukemic	Distant	0.1221	40399
 lidar	Distant	0.1221	40400
 listeriosis	Distant	0.1221	40401
 matrilocal	Distant	0.1221	40402
@@ -40559,7 +40559,7 @@ levelheaded	Distant	0.1218	40557
 liverwurst	Distant	0.1218	40558
 lovastatin	Distant	0.1218	40559
 mackinaw	Distant	0.1218	40560
-maenadic	Distant	0.1218	40561
+maenadic	Distant	0.1217	40561
 mandir	Distant	0.1217	40562
 matrilateral	Distant	0.1217	40563
 medusas	Distant	0.1217	40564
@@ -40887,7 +40887,7 @@ derate	Distant	0.1210	40885
 doodah	Distant	0.1210	40886
 galatea	Distant	0.1210	40887
 gast	Distant	0.1210	40888
-hanaper	Distant	0.1210	40889
+hanaper	Distant	0.1209	40889
 isochron	Distant	0.1209	40890
 kittel	Distant	0.1209	40891
 malm	Distant	0.1209	40892
@@ -40928,7 +40928,7 @@ czarina	Distant	0.1209	40926
 droits	Distant	0.1209	40927
 episcope	Distant	0.1209	40928
 feodary	Distant	0.1209	40929
-fettling	Distant	0.1209	40930
+fettling	Distant	0.1208	40930
 gae	Distant	0.1208	40931
 galliard	Distant	0.1208	40932
 girn	Distant	0.1208	40933
@@ -41011,7 +41011,7 @@ sacrist	Distant	0.1207	41009
 sall	Distant	0.1207	41010
 skewbald	Distant	0.1207	41011
 smirch	Distant	0.1207	41012
-soave	Distant	0.1207	41013
+soave	Distant	0.1206	41013
 sora	Distant	0.1206	41014
 squinny	Distant	0.1206	41015
 syce	Distant	0.1206	41016
@@ -41094,7 +41094,7 @@ solidago	Distant	0.1205	41092
 sparling	Distant	0.1205	41093
 squireen	Distant	0.1205	41094
 stockinette	Distant	0.1205	41095
-tarboosh	Distant	0.1205	41096
+tarboosh	Distant	0.1204	41096
 teleview	Distant	0.1204	41097
 thuja	Distant	0.1204	41098
 tipstaff	Distant	0.1204	41099
@@ -41219,7 +41219,7 @@ wistaria	Distant	0.1202	41217
 zein	Distant	0.1202	41218
 zineb	Distant	0.1202	41219
 zonula	Distant	0.1202	41220
-acetal	Distant	0.1202	41221
+acetal	Distant	0.1201	41221
 alkanet	Distant	0.1201	41222
 amentia	Distant	0.1201	41223
 aneroid	Distant	0.1201	41224
@@ -41261,7 +41261,7 @@ cleome	Distant	0.1201	41259
 cobnut	Distant	0.1201	41260
 coloni	Distant	0.1201	41261
 connate	Distant	0.1201	41262
-crambe	Distant	0.1201	41263
+crambe	Distant	0.1200	41263
 cuspate	Distant	0.1200	41264
 dedans	Distant	0.1200	41265
 dendron	Distant	0.1200	41266
@@ -41303,7 +41303,7 @@ genic	Distant	0.1200	41301
 grue	Distant	0.1200	41302
 gude	Distant	0.1200	41303
 gumma	Distant	0.1200	41304
-haematin	Distant	0.1200	41305
+haematin	Distant	0.1199	41305
 halliard	Distant	0.1199	41306
 hapax	Distant	0.1199	41307
 hawfinch	Distant	0.1199	41308
@@ -41345,7 +41345,7 @@ nomarch	Distant	0.1199	41343
 nomina	Distant	0.1199	41344
 nonagon	Distant	0.1199	41345
 olla	Distant	0.1199	41346
-ortolan	Distant	0.1199	41347
+ortolan	Distant	0.1198	41347
 osculation	Distant	0.1198	41348
 oxalis	Distant	0.1198	41349
 paeon	Distant	0.1198	41350
@@ -41387,7 +41387,7 @@ arsenite	Distant	0.1198	41385
 aswarm	Distant	0.1198	41386
 atheneum	Distant	0.1198	41387
 athetoid	Distant	0.1198	41388
-atony	Distant	0.1198	41389
+atony	Distant	0.1197	41389
 aubrieta	Distant	0.1197	41390
 autosuggestion	Distant	0.1197	41391
 azoturia	Distant	0.1197	41392
@@ -41556,7 +41556,7 @@ commo	Distant	0.1194	41554
 cooter	Distant	0.1194	41555
 copacetic	Distant	0.1194	41556
 coquina	Distant	0.1194	41557
-cowry	Distant	0.1194	41558
+cowry	Distant	0.1193	41558
 dashi	Distant	0.1193	41559
 degustation	Distant	0.1193	41560
 dehydroepiandrosterone	Distant	0.1193	41561
@@ -41641,7 +41641,7 @@ otoscope	Distant	0.1192	41639
 panicle	Distant	0.1192	41640
 panpipe	Distant	0.1192	41641
 peckerwood	Distant	0.1192	41642
-penaeid	Distant	0.1192	41643
+penaeid	Distant	0.1191	41643
 periphyton	Distant	0.1191	41644
 petrolatum	Distant	0.1191	41645
 pharmacognosy	Distant	0.1191	41646
@@ -41769,7 +41769,7 @@ fluoroscope	Distant	0.1189	41767
 helvetica	Distant	0.1189	41768
 whitsuntide	Distant	0.1189	41769
 oligocene	Distant	0.1189	41770
-algol	Distant	0.1189	41771
+algol	Distant	0.1188	41771
 houdini	Distant	0.1188	41772
 nebulize	Distant	0.1188	41773
 octahedron	Distant	0.1188	41774
@@ -41812,7 +41812,7 @@ thein	Distant	0.1188	41810
 arbil	Distant	0.1188	41811
 australopithecus	Distant	0.1188	41812
 charybdis	Distant	0.1188	41813
-chrysalid	Distant	0.1188	41814
+chrysalid	Distant	0.1187	41814
 dobby	Distant	0.1187	41815
 holocene	Distant	0.1187	41816
 albacore	Distant	0.1187	41817
@@ -41855,7 +41855,7 @@ defenestration	Distant	0.1187	41853
 erfurt	Distant	0.1187	41854
 flageolet	Distant	0.1187	41855
 methuselah	Distant	0.1187	41856
-neots	Distant	0.1187	41857
+neots	Distant	0.1186	41857
 octahedral	Distant	0.1186	41858
 ottar	Distant	0.1186	41859
 tela	Distant	0.1186	41860
@@ -41898,7 +41898,7 @@ birling	Distant	0.1186	41896
 corvid	Distant	0.1186	41897
 ctenophore	Distant	0.1186	41898
 delphinia	Distant	0.1186	41899
-gonococci	Distant	0.1186	41900
+gonococci	Distant	0.1185	41900
 hellbent	Distant	0.1185	41901
 huarache	Distant	0.1185	41902
 hyson	Distant	0.1185	41903
@@ -41941,7 +41941,7 @@ choroid	Distant	0.1185	41939
 cocos	Distant	0.1185	41940
 corvus	Distant	0.1185	41941
 durr	Distant	0.1185	41942
-ectothermic	Distant	0.1185	41943
+ectothermic	Distant	0.1184	41943
 effleurage	Distant	0.1184	41944
 eleemosynary	Distant	0.1184	41945
 gaddis	Distant	0.1184	41946
@@ -41984,7 +41984,7 @@ eridanus	Distant	0.1184	41982
 exosphere	Distant	0.1184	41983
 garganey	Distant	0.1184	41984
 geochronology	Distant	0.1184	41985
-halm	Distant	0.1184	41986
+halm	Distant	0.1183	41986
 hamadryad	Distant	0.1183	41987
 hierophant	Distant	0.1183	41988
 highhanded	Distant	0.1183	41989
@@ -42114,7 +42114,7 @@ syke	Distant	0.1181	42112
 terce	Distant	0.1181	42113
 zoon	Distant	0.1181	42114
 accordant	Distant	0.1181	42115
-albescent	Distant	0.1181	42116
+albescent	Distant	0.1180	42116
 allomorph	Distant	0.1180	42117
 americium	Distant	0.1180	42118
 anosmia	Distant	0.1180	42119
@@ -42288,7 +42288,7 @@ hexapeptide	Distant	0.1177	42286
 hoke	Distant	0.1177	42287
 holarctic	Distant	0.1177	42288
 holophrase	Distant	0.1177	42289
-hydrolyte	Distant	0.1177	42290
+hydrolyte	Distant	0.1176	42290
 hydrolytic	Distant	0.1176	42291
 hydropath	Distant	0.1176	42292
 hydropathic	Distant	0.1176	42293
@@ -42596,7 +42596,7 @@ capeskin	Distant	0.1170	42594
 capriole	Distant	0.1170	42595
 caracoles	Distant	0.1170	42596
 carambola	Distant	0.1170	42597
-carburet	Distant	0.1170	42598
+carburet	Distant	0.1169	42598
 carburise	Distant	0.1169	42599
 carrageenin	Distant	0.1169	42600
 carragheen	Distant	0.1169	42601
@@ -42640,7 +42640,7 @@ cliometric	Distant	0.1169	42638
 cliometrician	Distant	0.1169	42639
 cliometrics	Distant	0.1169	42640
 coccyges	Distant	0.1169	42641
-collop	Distant	0.1169	42642
+collop	Distant	0.1168	42642
 colubrid	Distant	0.1168	42643
 colubrine	Distant	0.1168	42644
 conchie	Distant	0.1168	42645
@@ -42729,7 +42729,7 @@ empurple	Distant	0.1167	42727
 empyreal	Distant	0.1167	42728
 encephala	Distant	0.1167	42729
 encephalon	Distant	0.1167	42730
-encephalous	Distant	0.1167	42731
+encephalous	Distant	0.1166	42731
 enclitically	Distant	0.1166	42732
 endodontic	Distant	0.1166	42733
 endodontics	Distant	0.1166	42734
@@ -42818,7 +42818,7 @@ grippe	Distant	0.1165	42816
 guck	Distant	0.1165	42817
 gyrocompass	Distant	0.1165	42818
 gyve	Distant	0.1165	42819
-hackamore	Distant	0.1165	42820
+hackamore	Distant	0.1164	42820
 haecceity	Distant	0.1164	42821
 halfbeak	Distant	0.1164	42822
 harl	Distant	0.1164	42823

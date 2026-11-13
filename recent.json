@@ -1,6 +1,88 @@
 {
   "schema_version": 1,
   "updated_at": "2026-11-13",
-  "newly_mastered": [],
-  "focus_targets": []
+  "newly_mastered": [
+    {
+      "lemma": "situation",
+      "rank": 517,
+      "date": "2026-11-13"
+    },
+    {
+      "lemma": "workable",
+      "rank": 1968,
+      "date": "2026-11-13"
+    },
+    {
+      "lemma": "localize",
+      "rank": 1970,
+      "date": "2026-11-13"
+    },
+    {
+      "lemma": "specialty",
+      "rank": 1971,
+      "date": "2026-11-13"
+    },
+    {
+      "lemma": "scary",
+      "rank": 1976,
+      "date": "2026-11-13"
+    },
+    {
+      "lemma": "issuer",
+      "rank": 1981,
+      "date": "2026-11-13"
+    }
+  ],
+  "focus_targets": [
+    "general",
+    "national",
+    "black",
+    "seven",
+    "situation",
+    "apparent",
+    "shout",
+    "egg",
+    "forcefully",
+    "workable",
+    "localize",
+    "specialty",
+    "mistakenly",
+    "scary",
+    "issuer",
+    "parenting",
+    "nightly",
+    "breakage",
+    "sadden",
+    "handler",
+    "unwell",
+    "mountainous",
+    "oddity",
+    "unquestionably",
+    "priceless",
+    "revisit",
+    "unprepared",
+    "addressee",
+    "pointedly",
+    "uncontrollable",
+    "hearten",
+    "stoppage",
+    "wastage",
+    "undecided",
+    "wrongful",
+    "protectionism",
+    "playful",
+    "marketable",
+    "truthful",
+    "allowable",
+    "answerable",
+    "droplet",
+    "frontal",
+    "sleepless",
+    "senseless",
+    "overly",
+    "unforgettable",
+    "resettlement",
+    "centrality",
+    "preheat"
+  ]
 }

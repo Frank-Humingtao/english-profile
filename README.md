@@ -4,25 +4,25 @@ Learner Profile 看板：由私有仓库的作答记录（Observation）经 GitH
 
 ## 词汇量
 
-约 **5630** 词族（95% 区间 3212–8047）· 更新于 2026-11-13
+约 **4604** 词族（95% 区间 2070–7139）· 更新于 2026-11-13
 
 ```mermaid
 xychart-beta
   title "词汇量（词族）"
   x-axis ["11-13"]
-  y-axis "词族" 0 --> 8047
-  line [5630]
+  y-axis "词族" 0 --> 7139
+  line [4604]
 ```
 
 ## 三类词
 
 | 已掌握 Mastered | 学习目标 Target | 暂不考虑 Distant |
 | ---: | ---: | ---: |
-| 525 | 12914 | 29589 |
+| 1129 | 9973 | 31926 |
 
 ## 近一周新掌握的词
 
-共 70 个：enough、million、nine、step、colour、arm、sure、short、ground、almost、least、probably、together、voice、paper、date、shop、health、police、boy、himself、field、major、collect、choose、paint、tax、toward、arrive、smile、team、window、stay、stage、white、recent、list、join、moment、secure、church、wish、game、thank、towards、fight、either、drink、page、save、town、action、king、hundred、among、god、wonder、fit、science、situation、lip、yourself、crime、useful、phone、workable、localize、specialty、scary、issuer
+共 676 个：enough、million、nine、step、colour、arm、sure、short、ground、almost、least、probably、together、voice、paper、date、shop、health、police、boy、himself、field、major、collect、choose、paint、tax、toward、arrive、smile、team、window、stay、stage、white、recent、list、join、moment、secure、church、wish、game、thank、towards、fight、either、drink、page、save、town、action、king、hundred、among、god、wonder、fit、science、difference、wear、officer、present、north、south、today、education、catch、depend、father、past、human、finish、computer、total、surprise、necessary、else、actually、above、mile、please、deep、wall、suppose、strike、twenty、lord、club、pick、front、middle、west、cross、across、eat、protect、press、third、amount……
 
 ## 学习
 

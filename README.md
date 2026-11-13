@@ -4,25 +4,25 @@ Learner Profile 看板：由私有仓库的作答记录（Observation）经 GitH
 
 ## 词汇量
 
-约 **3767** 词族（95% 区间 2508–5026）· 更新于 2026-11-13
+约 **3832** 词族（95% 区间 2778–4885）· 更新于 2026-11-13
 
 ```mermaid
 xychart-beta
   title "词汇量（词族）"
   x-axis ["11-13"]
-  y-axis "词族" 0 --> 5026
-  line [3767]
+  y-axis "词族" 0 --> 4885
+  line [3832]
 ```
 
 ## 三类词
 
 | 已掌握 Mastered | 学习目标 Target | 暂不考虑 Distant |
 | ---: | ---: | ---: |
-| 1432 | 8298 | 33298 |
+| 1486 | 8350 | 33192 |
 
 ## 近一周新掌握的词
 
-共 980 个：best、enough、million、nine、step、colour、arm、sure、short、ground、almost、least、probably、together、voice、paper、date、shop、health、police、boy、himself、field、major、collect、choose、paint、tax、toward、arrive、smile、team、window、stay、stage、white、recent、list、join、moment、secure、church、wish、game、thank、towards、fight、either、drink、page、save、town、action、king、hundred、among、god、wonder、fit、science、difference、wear、officer、present、north、south、today、education、catch、depend、father、past、human、finish、computer、total、surprise、necessary、else、actually、above、mile、please、deep、wall、suppose、strike、twenty、lord、club、pick、front、middle、west、cross、across、eat、protect、press、third……
+共 1034 个：best、enough、million、nine、step、colour、arm、sure、short、ground、almost、least、probably、together、voice、paper、date、shop、health、police、boy、himself、field、major、collect、choose、paint、tax、toward、arrive、smile、team、window、stay、stage、white、recent、list、join、moment、secure、wish、game、thank、towards、fight、either、drink、page、save、town、action、king、hundred、among、god、wonder、fit、science、difference、wear、officer、present、north、south、today、education、catch、depend、father、past、human、finish、computer、total、surprise、necessary、else、actually、above、mile、please、deep、wall、suppose、strike、twenty、lord、club、pick、front、middle、west、cross、across、eat、protect、press、third、amount……
 
 ## 学习
 

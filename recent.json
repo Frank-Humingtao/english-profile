@@ -1,7 +1,12 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-13",
+  "updated_at": "2026-11-14",
   "newly_mastered": [
+    {
+      "lemma": "mrs",
+      "rank": 590,
+      "date": "2026-11-14"
+    },
     {
       "lemma": "best",
       "rank": 384,
@@ -2608,11 +2613,6 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "rough",
-      "rank": 1029,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "fat",
       "rank": 1030,
       "date": "2026-11-13"
@@ -3170,11 +3170,6 @@
     {
       "lemma": "advertisement",
       "rank": 1289,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "pardon",
-      "rank": 1293,
       "date": "2026-11-13"
     },
     {

@@ -4,25 +4,25 @@ Learner Profile 看板：由私有仓库的作答记录（Observation）经 GitH
 
 ## 词汇量
 
-约 **5733** 词族（95% 区间 2483–8983）· 更新于 2026-11-13
+约 **6385** 词族（95% 区间 3326–9443）· 更新于 2026-11-13
 
 ```mermaid
 xychart-beta
   title "词汇量（词族）"
   x-axis ["11-13"]
-  y-axis "词族" 0 --> 8983
-  line [5733]
+  y-axis "词族" 0 --> 9443
+  line [6385]
 ```
 
 ## 三类词
 
 | 已掌握 Mastered | 学习目标 Target | 暂不考虑 Distant |
 | ---: | ---: | ---: |
-| 492 | 13112 | 29424 |
+| 461 | 14233 | 28334 |
 
 ## 近一周新掌握的词
 
-共 6 个：situation、workable、localize、specialty、scary、issuer
+共 5 个：workable、localize、specialty、scary、issuer
 
 ## 学习
 

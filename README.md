@@ -4,30 +4,30 @@ Learner Profile 看板：由私有仓库的作答记录（Observation）经 GitH
 
 ## 词汇量
 
-约 **6385** 词族（95% 区间 3326–9443）· 更新于 2026-11-13
+约 **5630** 词族（95% 区间 3212–8047）· 更新于 2026-11-13
 
 ```mermaid
 xychart-beta
   title "词汇量（词族）"
   x-axis ["11-13"]
-  y-axis "词族" 0 --> 9443
-  line [6385]
+  y-axis "词族" 0 --> 8047
+  line [5630]
 ```
 
 ## 三类词
 
 | 已掌握 Mastered | 学习目标 Target | 暂不考虑 Distant |
 | ---: | ---: | ---: |
-| 461 | 14233 | 28334 |
+| 525 | 12914 | 29589 |
 
 ## 近一周新掌握的词
 
-共 5 个：workable、localize、specialty、scary、issuer
+共 70 个：enough、million、nine、step、colour、arm、sure、short、ground、almost、least、probably、together、voice、paper、date、shop、health、police、boy、himself、field、major、collect、choose、paint、tax、toward、arrive、smile、team、window、stay、stage、white、recent、list、join、moment、secure、church、wish、game、thank、towards、fight、either、drink、page、save、town、action、king、hundred、among、god、wonder、fit、science、situation、lip、yourself、crime、useful、phone、workable、localize、specialty、scary、issuer
 
 ## 学习
 
 - 最近测试日期：2026-11-13
-- 连续学习天数：1 天
+- 连续测试天数：1 天
 
 ## 最新 Progress Report
 
@@ -37,7 +37,7 @@ xychart-beta
 
 - `summary.json`：词汇量及区间、三类词数、更新时间
 - `words.tsv`：lemma、Word Band、P（认识概率）、词频排名
-- `recent.json`：近一周新掌握的词、当前学习重点 `focus_targets`
+- `recent.json`：近一周新掌握的词
 - `history.json`：每日词汇量（用于上面的曲线）
 
 ## 数据来源与许可

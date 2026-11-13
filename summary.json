@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-11-13",
+  "lexicon_version": "lex-6326ad69a65d",
+  "vocab_size": {
+    "families": {"estimate": 5732, "low": 2482, "high": 8981},
+    "lemmas": {"estimate": 11600, "low": 6300, "high": 16900}
+  },
+  "band_counts": {"mastered": 486, "target": 13114, "distant": 29428},
+  "level_mastery": [
+    {"level": 1, "families": 1000, "mastery": 0.8921},
+    {"level": 2, "families": 1000, "mastery": 0.5410},
+    {"level": 3, "families": 1000, "mastery": 0.4017},
+    {"level": 4, "families": 1000, "mastery": 0.3280},
+    {"level": 5, "families": 1000, "mastery": 0.2869},
+    {"level": 6, "families": 1000, "mastery": 0.2595},
+    {"level": 7, "families": 1000, "mastery": 0.2376},
+    {"level": 8, "families": 1000, "mastery": 0.2206},
+    {"level": 9, "families": 1000, "mastery": 0.2066},
+    {"level": 10, "families": 1000, "mastery": 0.1949},
+    {"level": 11, "families": 1000, "mastery": 0.1847},
+    {"level": 12, "families": 999, "mastery": 0.1758},
+    {"level": 13, "families": 1000, "mastery": 0.1681},
+    {"level": 14, "families": 1001, "mastery": 0.1613},
+    {"level": 15, "families": 1000, "mastery": 0.1552},
+    {"level": 16, "families": 1000, "mastery": 0.1496},
+    {"level": 17, "families": 1000, "mastery": 0.1446},
+    {"level": 18, "families": 1000, "mastery": 0.1401},
+    {"level": 19, "families": 1000, "mastery": 0.1359},
+    {"level": 20, "families": 1000, "mastery": 0.1322},
+    {"level": 21, "families": 1000, "mastery": 0.1288},
+    {"level": 22, "families": 1000, "mastery": 0.1257},
+    {"level": 23, "families": 1000, "mastery": 0.1229},
+    {"level": 24, "families": 1000, "mastery": 0.1203},
+    {"level": 25, "families": 1000, "mastery": 0.1177}
+  ]
+}

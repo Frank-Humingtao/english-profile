@@ -3,6 +3,321 @@
   "updated_at": "2026-11-14",
   "newly_mastered": [
     {
+      "lemma": "recently",
+      "rank": 814,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "okay",
+      "rank": 820,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "suddenly",
+      "rank": 852,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "employment",
+      "rank": 856,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "obviously",
+      "rank": 865,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "payment",
+      "rank": 881,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "highly",
+      "rank": 905,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "employee",
+      "rank": 916,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "odd",
+      "rank": 921,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "reader",
+      "rank": 931,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "rough",
+      "rank": 1029,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "appearance",
+      "rank": 1033,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "unemployment",
+      "rank": 1036,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "freedom",
+      "rank": 1043,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "explanation",
+      "rank": 1049,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "mine",
+      "rank": 1052,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "reasonable",
+      "rank": 1055,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "unable",
+      "rank": 1056,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "onto",
+      "rank": 1059,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "suitable",
+      "rank": 1061,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "scientific",
+      "rank": 1063,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "program",
+      "rank": 1067,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "settlement",
+      "rank": 1070,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "ought",
+      "rank": 1072,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "billion",
+      "rank": 1078,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "totally",
+      "rank": 1079,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "specialist",
+      "rank": 1082,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "partly",
+      "rank": 1085,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "properly",
+      "rank": 1091,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "bath",
+      "rank": 1100,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "worst",
+      "rank": 1114,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "fright",
+      "rank": 1124,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "beneath",
+      "rank": 1125,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "expectation",
+      "rank": 1136,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "unlike",
+      "rank": 1138,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "unfortunately",
+      "rank": 1139,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "depth",
+      "rank": 1142,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "unknown",
+      "rank": 1151,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "preparation",
+      "rank": 1154,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "badly",
+      "rank": 1155,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "frighten",
+      "rank": 1170,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "unusual",
+      "rank": 1172,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "heavily",
+      "rank": 1173,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "scare",
+      "rank": 1183,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "presentation",
+      "rank": 1186,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "throat",
+      "rank": 1190,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "arrival",
+      "rank": 1194,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "actor",
+      "rank": 1199,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "deeply",
+      "rank": 1200,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "mess",
+      "rank": 1203,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "tendency",
+      "rank": 1204,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "awful",
+      "rank": 1207,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "nearby",
+      "rank": 1210,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "wooden",
+      "rank": 1213,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "allowance",
+      "rank": 1214,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "judgement",
+      "rank": 1215,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "neat",
+      "rank": 1218,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "darkness",
+      "rank": 1219,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "ownership",
+      "rank": 1220,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "musical",
+      "rank": 1221,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "truly",
+      "rank": 1222,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "storage",
+      "rank": 1233,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "childhood",
+      "rank": 1240,
+      "date": "2026-11-14"
+    },
+    {
       "lemma": "pardon",
       "rank": 1293,
       "date": "2026-11-14"
@@ -13,8 +328,143 @@
       "date": "2026-11-14"
     },
     {
+      "lemma": "crazy",
+      "rank": 1311,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "seventeen",
+      "rank": 1329,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "ours",
+      "rank": 1347,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "seventh",
+      "rank": 1356,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "ruler",
+      "rank": 1359,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "ugly",
+      "rank": 1361,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "shy",
+      "rank": 1365,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "grandmother",
+      "rank": 1372,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "tenth",
+      "rank": 1381,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "eighth",
+      "rank": 1383,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "recorder",
+      "rank": 1397,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "twelfth",
+      "rank": 1407,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "delicious",
+      "rank": 1423,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "lazy",
+      "rank": 1430,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "ninth",
+      "rank": 1451,
+      "date": "2026-11-14"
+    },
+    {
       "lemma": "homeless",
       "rank": 1452,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "sunny",
+      "rank": 1462,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "theirs",
+      "rank": 1467,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "oneself",
+      "rank": 1559,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "cooker",
+      "rank": 1573,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "grandson",
+      "rank": 1574,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "grandparent",
+      "rank": 1599,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "grandchild",
+      "rank": 1606,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "granny",
+      "rank": 1609,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "careless",
+      "rank": 1647,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "midweek",
+      "rank": 1940,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "friendliness",
+      "rank": 1999,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "humanistic",
+      "rank": 2403,
       "date": "2026-11-14"
     },
     {
@@ -23,13 +473,178 @@
       "date": "2026-11-14"
     },
     {
+      "lemma": "deadliness",
+      "rank": 3466,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "wrongfulness",
+      "rank": 3554,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "tastelessness",
+      "rank": 3585,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "brotherliness",
+      "rank": 3615,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "fattiness",
+      "rank": 3621,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "grayness",
+      "rank": 3627,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "midweekly",
+      "rank": 3637,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "policy",
+      "rank": 3704,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "industry",
+      "rank": 3713,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "associate",
+      "rank": 3727,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "project",
+      "rank": 3750,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "section",
+      "rank": 3756,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "range",
+      "rank": 3763,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "supply",
+      "rank": 3768,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "environment",
+      "rank": 3781,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "prove",
+      "rank": 3789,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "affect",
+      "rank": 3797,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "warn",
+      "rank": 3829,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "direct",
+      "rank": 3831,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "risk",
+      "rank": 3849,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "private",
+      "rank": 3850,
+      "date": "2026-11-14"
+    },
+    {
       "lemma": "print",
       "rank": 3853,
       "date": "2026-11-14"
     },
     {
+      "lemma": "transfer",
+      "rank": 3879,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "income",
+      "rank": 3917,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "surround",
+      "rank": 3947,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "option",
+      "rank": 3956,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "exchange",
+      "rank": 3963,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "ignore",
+      "rank": 4010,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "competition",
+      "rank": 4049,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "requirement",
+      "rank": 4121,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "classic",
+      "rank": 4141,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "borrow",
+      "rank": 4150,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "manner",
+      "rank": 4183,
+      "date": "2026-11-14"
+    },
+    {
       "lemma": "blind",
       "rank": 4343,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "pregnant",
+      "rank": 4517,
       "date": "2026-11-14"
     },
     {
@@ -43,6 +658,11 @@
       "date": "2026-11-14"
     },
     {
+      "lemma": "battery",
+      "rank": 4665,
+      "date": "2026-11-14"
+    },
+    {
       "lemma": "barely",
       "rank": 4773,
       "date": "2026-11-14"
@@ -53,8 +673,78 @@
       "date": "2026-11-14"
     },
     {
+      "lemma": "progressive",
+      "rank": 4831,
+      "date": "2026-11-14"
+    },
+    {
       "lemma": "oven",
       "rank": 4839,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "bacon",
+      "rank": 4911,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "unpleasant",
+      "rank": 4955,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "fashionable",
+      "rank": 4976,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "curiosity",
+      "rank": 4977,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "skillful",
+      "rank": 6465,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "publish",
+      "rank": 6942,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "achieve",
+      "rank": 6943,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "define",
+      "rank": 6947,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "significant",
+      "rank": 6988,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "sample",
+      "rank": 7042,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "consist",
+      "rank": 7064,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "monitor",
+      "rank": 7090,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "status",
+      "rank": 7132,
       "date": "2026-11-14"
     },
     {
@@ -63,8 +753,68 @@
       "date": "2026-11-14"
     },
     {
+      "lemma": "accommodate",
+      "rank": 7234,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "net",
+      "rank": 7278,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "assembly",
+      "rank": 7308,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "angle",
+      "rank": 7321,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "congress",
+      "rank": 7335,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "definition",
+      "rank": 7338,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "passage",
+      "rank": 7341,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "visible",
+      "rank": 7465,
+      "date": "2026-11-14"
+    },
+    {
       "lemma": "cancel",
       "rank": 7582,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "airline",
+      "rank": 7824,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "satisfaction",
+      "rank": 7844,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "athlete",
+      "rank": 7974,
+      "date": "2026-11-14"
+    },
+    {
+      "lemma": "thread",
+      "rank": 10269,
       "date": "2026-11-14"
     },
     {
@@ -3478,11 +4228,6 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "birdy",
-      "rank": 2673,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "lifelike",
       "rank": 2677,
       "date": "2026-11-13"
@@ -3510,11 +4255,6 @@
     {
       "lemma": "ladylike",
       "rank": 2705,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "misinform",
-      "rank": 2713,
       "date": "2026-11-13"
     },
     {
@@ -4083,11 +4823,6 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "greyly",
-      "rank": 3393,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "heartlessness",
       "rank": 3394,
       "date": "2026-11-13"
@@ -4258,11 +4993,6 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "flowerer",
-      "rank": 3522,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "glassiness",
       "rank": 3524,
       "date": "2026-11-13"
@@ -4325,11 +5055,6 @@
     {
       "lemma": "furtherer",
       "rank": 3564,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "misgoverned",
-      "rank": 3572,
       "date": "2026-11-13"
     },
     {
@@ -4608,11 +5333,6 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "activity",
-      "rank": 3803,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "therefore",
       "rank": 3804,
       "date": "2026-11-13"
@@ -4778,11 +5498,6 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "ace",
-      "rank": 4758,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "desirable",
       "rank": 4794,
       "date": "2026-11-13"
@@ -4800,11 +5515,6 @@
     {
       "lemma": "mentally",
       "rank": 4811,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "pensioner",
-      "rank": 4812,
       "date": "2026-11-13"
     },
     {
@@ -4888,18 +5598,8 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "inequality",
-      "rank": 4912,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "sore",
       "rank": 4920,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "fairy",
-      "rank": 4921,
       "date": "2026-11-13"
     },
     {
@@ -4948,28 +5648,8 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "unfavourable",
-      "rank": 5310,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "inactive",
-      "rank": 5321,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "mixer",
       "rank": 5341,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "sharpness",
-      "rank": 5345,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "destroyer",
-      "rank": 5377,
       "date": "2026-11-13"
     },
     {
@@ -4983,23 +5663,8 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "popularly",
-      "rank": 5406,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "ghostly",
       "rank": 5409,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "unbalance",
-      "rank": 5410,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "selectively",
-      "rank": 5419,
       "date": "2026-11-13"
     },
     {
@@ -5010,16 +5675,6 @@
     {
       "lemma": "shameful",
       "rank": 5423,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "effortlessly",
-      "rank": 5431,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "appointee",
-      "rank": 5507,
       "date": "2026-11-13"
     },
     {
@@ -5163,11 +5818,6 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "discharge",
-      "rank": 7564,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "medium",
       "rank": 7586,
       "date": "2026-11-13"
@@ -5188,33 +5838,8 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "glow",
-      "rank": 7817,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "discourage",
-      "rank": 10456,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "oxygen",
-      "rank": 10520,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "beast",
-      "rank": 10526,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "lively",
       "rank": 10691,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "rocket",
-      "rank": 10808,
       "date": "2026-11-13"
     }
   ]

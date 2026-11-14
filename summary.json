@@ -1,10 +1,12 @@
 {
-  "schema_version": 1,
+  "schema_version": 3,
   "updated_at": "2026-11-13",
   "lexicon_version": "lex-6326ad69a65d",
   "vocab_size": {
     "families": {"estimate": 3814, "low": 2765, "high": 4863},
-    "lemmas": {"estimate": 7806, "low": 6069, "high": 9543}
+    "lemmas": {"estimate": 7806, "low": 6069, "high": 9543},
+    "core": {"families": {"estimate": 3276, "low": 2654, "high": 3898}, "lemmas": {"estimate": 7144, "low": 5921, "high": 8367}},
+    "tail": {"families": {"estimate": 538, "low": 84, "high": 992}, "lemmas": {"estimate": 662, "low": 107, "high": 1217}}
   },
   "band_counts": {"mastered": 1485, "target": 8325, "distant": 33218},
   "level_mastery": [

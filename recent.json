@@ -1,7 +1,27 @@
 {
   "schema_version": 3,
-  "updated_at": "2026-11-14",
+  "updated_at": "2026-11-18",
   "newly_mastered": [
+    {
+      "lemma": "mrs",
+      "rank": 590,
+      "date": "2026-11-18"
+    },
+    {
+      "lemma": "rid",
+      "rank": 1249,
+      "date": "2026-11-18"
+    },
+    {
+      "lemma": "weekly",
+      "rank": 1252,
+      "date": "2026-11-18"
+    },
+    {
+      "lemma": "seed",
+      "rank": 4313,
+      "date": "2026-11-18"
+    },
     {
       "lemma": "recently",
       "rank": 814,
@@ -723,16 +743,6 @@
       "date": "2026-11-14"
     },
     {
-      "lemma": "significant",
-      "rank": 6988,
-      "date": "2026-11-14"
-    },
-    {
-      "lemma": "sample",
-      "rank": 7042,
-      "date": "2026-11-14"
-    },
-    {
       "lemma": "consist",
       "rank": 7064,
       "date": "2026-11-14"
@@ -753,18 +763,8 @@
       "date": "2026-11-14"
     },
     {
-      "lemma": "accommodate",
-      "rank": 7234,
-      "date": "2026-11-14"
-    },
-    {
       "lemma": "net",
       "rank": 7278,
-      "date": "2026-11-14"
-    },
-    {
-      "lemma": "assembly",
-      "rank": 7308,
       "date": "2026-11-14"
     },
     {
@@ -773,23 +773,8 @@
       "date": "2026-11-14"
     },
     {
-      "lemma": "congress",
-      "rank": 7335,
-      "date": "2026-11-14"
-    },
-    {
-      "lemma": "definition",
-      "rank": 7338,
-      "date": "2026-11-14"
-    },
-    {
       "lemma": "passage",
       "rank": 7341,
-      "date": "2026-11-14"
-    },
-    {
-      "lemma": "visible",
-      "rank": 7465,
       "date": "2026-11-14"
     },
     {
@@ -5518,28 +5503,13 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "correctly",
-      "rank": 4824,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "comparable",
       "rank": 4827,
       "date": "2026-11-13"
     },
     {
-      "lemma": "capability",
-      "rank": 4832,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "heap",
       "rank": 4834,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "reassure",
-      "rank": 4854,
       "date": "2026-11-13"
     },
     {
@@ -5628,11 +5598,6 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "attachment",
-      "rank": 5017,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "smoothly",
       "rank": 5020,
       "date": "2026-11-13"
@@ -5645,11 +5610,6 @@
     {
       "lemma": "heroic",
       "rank": 5121,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "mixer",
-      "rank": 5341,
       "date": "2026-11-13"
     },
     {
@@ -5673,11 +5633,6 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "shameful",
-      "rank": 5423,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "principle",
       "rank": 6966,
       "date": "2026-11-13"
@@ -5698,23 +5653,8 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "display",
-      "rank": 6994,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "distribute",
       "rank": 7000,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "launch",
-      "rank": 7009,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "objective",
-      "rank": 7015,
       "date": "2026-11-13"
     },
     {
@@ -5743,18 +5683,8 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "efficient",
-      "rank": 7110,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "defeat",
       "rank": 7156,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "convert",
-      "rank": 7168,
       "date": "2026-11-13"
     },
     {
@@ -5763,23 +5693,8 @@
       "date": "2026-11-13"
     },
     {
-      "lemma": "phase",
-      "rank": 7180,
-      "date": "2026-11-13"
-    },
-    {
       "lemma": "factory",
       "rank": 7200,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "enhance",
-      "rank": 7227,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "resolve",
-      "rank": 7232,
       "date": "2026-11-13"
     },
     {
@@ -5800,11 +5715,6 @@
     {
       "lemma": "capture",
       "rank": 7376,
-      "date": "2026-11-13"
-    },
-    {
-      "lemma": "fragment",
-      "rank": 7440,
       "date": "2026-11-13"
     },
     {
